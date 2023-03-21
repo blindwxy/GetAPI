@@ -10,3 +10,5 @@ for r in range(log_csv.shape[0]):  #log_csv.shape[0]为dataframe行数
     log_csv.iloc[[r],[4]] = temp_list[1]   #temp_list第2个值为所需的数值，取之赋给原表对应单元格，行列循环遍历后即可
 #print(log_csv)
 log_csv.to_csv('/Users/wuxinying/PycharmProjects/GithubAPI/jian3.csv')
+123
+456
