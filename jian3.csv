@@ -1,0 +1,574 @@
+,0,1,2,3,4,5,6
+0,22,acceldata,http://acceldata.io,N,acceldata-io/repositories/0,30,Y
+1,28,Searchlight,https://www.searchlight.ai/,N,Searchlight/repositories/0,30,N
+2,43,Neurosity,https://www.neurosity.co/,N,neurosity/repositories/0,30,N
+3,45,Iterative.ai,https://iterative.ai,N,iterative/repositories/0,30,Y
+4,62,Luxonis,https://www.luxonis.com,N,luxonis/repositories/0,30,Y
+5,91,alwaysAI,http://www.alwaysai.co/,N,alwaysai/repositories/0,30,N
+6,102,Cape Privacy,https://capeprivacy.com/,N,capeprivacy/repositories/0,30,N
+7,112,Sorcero,http://www.sorcero.com,N,sorcero/repositories/0,30,Y
+8,115,Dexai Robotics,https://www.dexai.com/,N,DexaiRobotics/repositories/0,30,Y
+9,163,Apres,http://www.apres.io,N,Apress/repositories/0,30,N
+10,235,Ai4,https://ai4.io,N,AI4Finance-Foundation/repositories/0,30,N
+11,241,Auxon,https://auxon.io,N,auxoncorp/repositories/0,30,N
+12,329,Riv,https://riv.co,N,rive-app/repositories/0,30,N
+13,403,Hypergiant,http://hypergiant.com/,N,gohypergiant/repositories/0,30,Y
+14,490,MLCommons,https://mlcommons.org/en/,N,mlcommons/repositories/0,30,N
+15,566,Ampsight,https://www.ampsight.com,N,ampsight/repositories/0,30,N
+16,608,Burt Intelligence,https://www.burtcorp.com,N,burtcorp/repositories/0,30,N
+17,613,IoT/AI,https://iot.ai,N,NVIDIA-AI-IOT/repositories/0,30,N
+18,747,Kibernetika.AI,https://kibernetika.ai/,N,kibernetika-ai//repositories/0,30,N
+19,836,Method Data Science,http://www.methoddatascience.com,N,methoddatascience//repositories/0,30,Y
+20,997,Symbl.ai,https://symbl.ai,N,symblai/repositories/0,30,Y
+21,1005,Clockwork,https://clockwork.net,N,ClockworkNet/repositories/0,30,N
+22,1014,Blitz App,https://blitz.gg/,N,theblitzapp/repositories/0,30,Y
+23,1036,Merico,https://meri.co,N,merico-dev/repositories/0,30,N
+24,1041,Pixie,https://pixielabs.ai/,N,pixielabs/repositories/0,30,N
+25,1043,Scylla,https://scylla.ai,N,scylladb/repositories/0,30,N
+26,1049,NimbleBox.ai,https://www.nimblebox.ai,N,NimbleBoxAI/repositories/0,30,N
+27,1065,Streamlit,https://www.streamlit.io,N,streamlit/repositories/0,30,N
+28,1184,Poppy AI,https://www.poppy.ai/,N,poppy-project//repositories/0,30,N
+29,1312,Anyscale,https://anyscale.com,N,anyscale/repositories/0,30,Y
+30,1318,OctoML,https://octoml.ai,N,octoml/repositories/0,30,Y
+31,1324,CAST AI,https://www.cast.ai/,N,castai/repositories/0,30,Y
+32,1328,Edge Impulse,https://www.edgeimpulse.com,N,edgeimpulse/repositories/0,30,Y
+33,1337,Heartex,https://heartex.com/,N,heartexlabs/repositories/0,30,N
+34,1354,Machina Labs,https://machinalabs.ai,N,Machinalabs//repositories/0,30,N
+35,1387,Pactum,https://www.pactum.com/,N,pactum/repositories/0,30,N
+36,1440,Saturn Cloud,https://www.saturncloud.io/,N,saturncloud/repositories/0,30,Y
+37,1448,YData,https://ydata.ai,N,ydataai/repositories/0,30,Y
+38,1476,Opora,https://www.opora.io/,N,OPORA/repositories/0,30,N
+39,1517,Roboflow,https://roboflow.com/,N,Roboflow/repositories/0,30,Y
+40,1534,Neu.ro Inc,https://neu.ro,N,neuro-inc/repositories/0,30,Y
+41,1656,Watchout!AI,https://www.watchout.ai,N,watchout-tw/repositories/0,30,N
+42,1765,SERP,https://serp.co,N,serpapi//repositories/0,30,N
+43,1788,Persistence AI,https://www.persistence.ai/,N,persistenceOne/repositories/0,30,N
+44,1984,Arrivu Technologies,https://www.arrivu.com,N,arrivu/repositories/0,30,N
+45,1987,Tangible AI,http://www.tangibleai.com,N,tangibleai/repositories/0,30,Y
+46,2000,Epik,http://www.epik.ai,N,EpiK-Protocol/repositories/0,30,N
+47,2302,Modzy,https://www.modzy.com,N,modzy/repositories/0,30,Y
+48,2313,Algoritmi Vision,https://plex.page/,N,plexinc/repositories/0,30,N
+49,2391,Coiled,https://coiled.io/,N,coiled/repositories/0,30,Y
+50,2468,Aftershoot,https://aftershoot.com,N,aftershootco/repositories/0,30,Y
+51,2491,VESSL AI,https://vessl.ai/,N,vessl-ai/repositories/0,30,Y
+52,2542,Precog Data,https://precog.com/,N,precog//repositories/0,30,Y
+53,2585,Hammer Of The Gods,https://hotg.ai/,N,hotg-ai/repositories/0,30,N
+54,2675,BlueHalo,https://www.bluehalo.com/,N,bluehalo//repositories/0,30,N
+55,2775,Scrypt,https://scrypt.ai,N,sCrypt-Inc/repositories/0,30,N
+56,748,QuantRocket,https://www.quantrocket.com/,N,quantrocket-llc/repositories/0,28,Y
+57,2112,mederrata,https://www.mederrata.com,N,mederrata/repositories/0,28,N
+58,2372,Viam,https://www.viam.com,N,viamrobotics/repositories/0,28,Y
+59,1608,Teknoir,https://www.teknoir.ai/,N,teknoir/repositories/0,27,Y
+60,1486,Logiq.ai,https://logiq.ai/,N,logiqai/repositories/0,26,Y
+61,90,Activeloop,https://activeloop.ai,N,activeloopai/repositories/0,25,Y
+62,1371,Beacon Biosignals,http://beacon.bio,N,ga4gh-beacon//repositories/0,25,N
+63,1438,Anno.Ai,https://anno.ai/,N,anno-ai/repositories/0,25,Y
+64,1844,Zeblok Computational,https://www.zeblok.com/,N,zeblok/repositories/0,25,N
+65,2168,OneCampus Academy,https://www.onecampus.co,N,onecampus/repositories/0,25,N
+66,50,rct AI,https://rct.ai/,N,rct-ai/repositories/0,24,Y
+67,82,Kalepa,https://www.kalepa.com,N,Kalepa/repositories/0,24,Y
+68,812,Trybe.ai,https://www.trybe.ai/,N,trybe/repositories/0,24,N
+69,1015,Voxel51,https://voxel51.com/,N,voxel51/repositories/0,24,Y
+70,1029,Station A,https://stationa.com,N,StationA//repositories/0,24,Y
+71,2441,Compose.AI,http://www.compose-ai.com/,N,compose-ai/repositories/0,24,N
+72,47,SupplyPike,https://www.supplypike.com,N,supplypike/repositories/0,23,N
+73,7,Traceable,https://www.traceable.ai/,N,Traceableai/repositories/0,22,N
+74,69,Carbon Robotics,https://carbonrobotics.com,N,carbonrobotics/repositories/0,22,N
+75,440,Celerative,http://celerative.com,N,celerative/repositories/0,22,N
+76,658,Woxi,https://woxi.io,N,woxiprogrammers/repositories/0,22,N
+77,1401,Evolv AI,https://www.evolv.ai/,N,evolv-ai/repositories/0,22,Y
+78,1407,WhyLabs,https://whylabs.ai/,N,whylabs/repositories/0,22,N
+79,1412,CompScience,http://www.compscience.com,N,compsciencelab/repositories/0,22,N
+80,1442,Viaduct,http://www.viaduct.ai,N,viaduct-ai/repositories/0,22,Y
+81,1824,Grid.ai,https://www.grid.ai/,N,gridai/repositories/0,22,N
+82,1374,Faros AI,https://www.faros.ai/,N,faros-ai/repositories/0,21,Y
+83,1654,AICG,http://aicg.com,N,aicglabs/repositories/0,21,N
+84,1272,NoviSystems Inc.,https://www.novi.systems,N,NoviSystems//repositories/0,20,N
+85,1336,Baseten,https://www.baseten.co/,N,basetenlabs/repositories/0,20,N
+86,157,Sisu,https://sisudata.com,N,sisudata/repositories/0,19,N
+87,447,AutonomIQ,http://www.autonomiq.io,N,Autonomiq/repositories/0,19,N
+88,762,9to5,http://www.9to5.ai,N,9to5/repositories/0,19,N
+89,821,Lum AI,https://lum.ai,N,lum-ai/repositories/0,19,Y
+90,385,DiscreetAI,https://www.discreetai.com/,N,DiscreetAI/repositories/0,18,N
+91,764,RSquared AI,https://www.rsquared.ai/,N,rsquaredacademy//repositories/0,18,N
+92,1665,MaiVERIC,https://maiveric.com,N,maiveric//repositories/0,18,N
+93,1812,Pumas-AI,https://pumas.ai/,N,PumasAI/repositories/0,18,Y
+94,2408,Semiotic AI,https://www.semiotic.ai/,N,semiotic-ai//repositories/0,18,N
+95,2467,Nile AI,https://www.nile.ai,N,nileorg/repositories/0,18,N
+96,2500,Spyn,http://www.spyn.ai/,N,spynai/repositories/0,18,N
+97,147,Somatic,http://getsomatic.com,N,getsomatic//repositories/0,17,Y
+98,717,SmartAssist,https://smartassist.io/,N,smartassistco/repositories/0,17,N
+99,1237,Chainterra,https://www.chainterra.com/,N,ChainTerra/repositories/0,17,Y
+100,1335,Horizon3.ai,https://www.horizon3.ai,N,horizon3ai//repositories/0,17,N
+101,1379,Segmed,https://www.segmed.ai,N,segmed/repositories/0,17,Y
+102,1419,Launchable,https://www.launchableinc.com/,N,launchableinc/repositories/0,17,N
+103,1459,Sturdy,https://www.sturdy.ai,N,sturdy-dev/repositories/0,17,N
+104,2167,ICOG,https://www.icog.ai/,N,iCogLabs/repositories/0,17,N
+105,2767,Crypto Bank,https://www.crypto-bank.io/,N,crypto-bank//repositories/0,17,N
+106,13,Nightfall AI,https://www.nightfall.ai,N,nightfallai/repositories/0,16,Y
+107,831,Butter Works,http://butter.works,N,butterproject/repositories/0,16,N
+108,1355,Synthesis AI,http://synthesis.ai/,N,Synthesis-AI-Dev//repositories/0,16,Y
+109,1516,Everguard.ai,https://www.everguard.ai/,N,everguard-inc/repositories/0,16,N
+110,1540,Knowt,https://knowt.io,N,Knowt/repositories/0,16,N
+111,1770,Tarteel,https://tarteel.ai,N,Tarteel-io/repositories/0,16,Y
+112,1019,The Routing Company,https://theroutingcompany.com/,N,theroutingcompany/repositories/0,15,Y
+113,1332,Deepnote,https://www.deepnote.com/,N,deepnote/repositories/0,15,Y
+114,1572,Riley,http://riley.ai,N,rileyai/repositories/0,15,Y
+115,1772,Source Medium,https://www.sourcemedium.com,N,SourceMedium//repositories/0,15,N
+116,1994,Merlin,https://www.merlin.tech,N,NVIDIA-Merlin/repositories/0,15,N
+117,815,CollectiWise,https://www.collectiwise.com,N,CollectiWise/repositories/0,14,N
+118,1035,Orbiit,https://orbiit.ai,N,Orbiit/repositories/0,14,N
+119,1341,Bodo.ai,https://bodo.ai/,N,Bodo-inc/repositories/0,14,N
+120,1465,Sosivio,https://sosiv.io/,N,Sosivio/repositories/0,14,N
+121,1637,xaana.ai,https://xaana.ai,N,xaana//repositories/0,14,Y
+122,2479,CoCoPIE,https://www.cocopie.ai/,N,CoCoPIE-Group//repositories/0,14,Y
+123,141,Freedom Robotics,http://www.freedomrobotics.com,N,freedomrobotics/repositories/0,13,N
+124,203,SetSail,https://www.setsail.co,N,setsailco/repositories/0,13,N
+125,1074,CKM Analytix,https://www.ckmanalytix.com,N,ckmanalytix/repositories/0,13,N
+126,1400,XL8,https://XL8.ai,N,xl8-ai/repositories/0,13,N
+127,1586,Hank AI,https://hank.ai,N,hank-ai/repositories/0,13,Y
+128,1893,Jewel ML,https://jewelml.com,N,jewelml/repositories/0,13,N
+129,2688,Skan Technologies,http://www.skan.io/,N,skan-io/repositories/0,13,N
+130,2700,CoParse,https://coparse.com/,N,coparse-inc/repositories/0,13,N
+131,2828,Growth Engine,https://growthengineai.com/,N,GrowthEngineAI/repositories/0,13,Y
+132,310,ImmunoMind,https://immunomind.io/,N,immunomind/repositories/0,12,Y
+133,334,SOCO.AI,https://www.soco.ai,N,soco-ai/repositories/0,12,Y
+134,714,S20.AI,https://www.s20.ai/,N,s20ai/repositories/0,12,N
+135,1274,"Altola, Inc.",https://altola.co,N,altola/repositories/0,12,Y
+136,1314,Tecton,https://tecton.ai/,N,tecton-ai/repositories/0,12,N
+137,1426,Cornelis Networks,https://cornelisnetworks.com/,N,cornelisnetworks//repositories/0,12,Y
+138,1830,FourthBrain,http://www.fourthbrain.ai,N,FourthBrain/repositories/0,12,Y
+139,1963,Docuvision,http://www.docuvision.ai,N,docuvision/repositories/0,12,N
+140,2611,Digital.ai,http://www.digital.ai/,N,digital-ai//repositories/0,12,N
+141,2732,Digital.ai,https://digital.ai,N,digital-ai//repositories/0,12,Y
+142,8,Mutiny,https://www.mutinyhq.com,N,MutinyHQ/repositories/0,11,N
+143,33,Sirona Medical,https://www.sironamedical.com/,N,SironaMedical/repositories/0,11,N
+144,35,Dyno Therapeutics,https://www.dynotx.com,N,dynotx/repositories/0,11,Y
+145,222,CurieVision,https://curie.co,N,curie-data-factory/repositories/0,11,N
+146,266,Jobot,https://jobot.com/,N,teamjobot//repositories/0,11,Y
+147,1085,MindStand Technologies,http://MindStand.com,N,mindstand/repositories/0,11,N
+148,1464,Hyperspec-ai,https://hyperspec.ai,N,hyperspec-ai/repositories/0,11,Y
+149,2018,Intercept CX,http://intercept.cx,N,Intercept/repositories/0,11,N
+150,2378,OthersideAI,https://www.othersideai.com,N,OthersideAI/repositories/0,11,N
+151,2422,Union.ai,https://union.ai/,N,unionai/repositories/0,11,Y
+152,2449,Known Medicine,https://www.knownmed.com/,N,knownmed//repositories/0,11,N
+153,175,Singularity.AI,http://www.singularity.ai/,N,Singularity-AI/repositories/0,10,N
+154,238,Pitch Inc.,https://pitch.studio,N,pitch-io/repositories/0,10,N
+155,300,WayLit,https://www.waylit.com,N,WayLit//repositories/0,10,Y
+156,546,Secomind,https://secomind.ai,N,secomind/repositories/0,10,N
+157,1201,TrainingData.io,https://www.trainingdata.io,N,trainingdata//repositories/0,10,Y
+158,1526,Ren,https://rensystems.com/,N,RenSystems//repositories/0,10,N
+159,1562,Shiftlab,https://shiftlab.io/,N,Systems-ShiftLab/repositories/0,10,N
+160,1985,Modelyst,http://modelyst.com,N,modelyst//repositories/0,10,Y
+161,2455,XTRA,https://xtravision.ai/,N,xtravision-ai/repositories/0,10,Y
+162,2568,MajorBoost,https://www.majorboost.com/,N,majorboost/repositories/0,10,Y
+163,123,Alan AI,https://alan.app,N,alan-ai/repositories/0,9,N
+164,359,FounderNest,https://www.foundernest.com,N,foundernest/repositories/0,9,N
+165,415,TopHap,https://www.tophap.com/,N,tophap/repositories/0,9,Y
+166,509,Big Room,https://www.bigroom.tv/,N,BigRoom/repositories/0,9,N
+167,1284,Explain.Care Inc.,https://www.explain.care,N,explainDev/repositories/0,9,N
+168,1385,Eleos Health,https://www.eleos.health/,N,eleos-health//repositories/0,9,N
+169,1420,Graviti,https://www.graviti.com/,N,Graviti-AI//repositories/0,9,Y
+170,1763,PureSkill.gg,http://pureskill.gg/,N,pureskillgg/repositories/0,9,Y
+171,2329,Brainome,http://www.brainome.ai/,N,brainome/repositories/0,9,Y
+172,2356,Arize AI,https://arize.com,N,Arize-ai//repositories/0,9,N
+173,2370,OtterTune,https://ottertune.com,N,ottertune/repositories/0,9,Y
+174,2425,Greyscale AI,https://www.greyscaleai.com/,N,greyscaleai521//repositories/0,9,Y
+175,2486,InfinStor,https://infinstor.com,N,infinstor//repositories/0,9,Y
+176,2619,Metrolla,https://metrolla.com,N,Metrolla-Inc/repositories/0,9,Y
+177,2803,Strio.AI,http://strio.ai/,N,Strio-DAO/repositories/0,9,N
+178,49,Third Wave Automation,https://www.thirdwave.ai/,N,thirdwave-ai/repositories/0,8,N
+179,358,Chronicle,https://chronicle.security/,N,Chronicle/repositories/0,8,Y
+180,589,Harbor.ai,https://harbor.ai,N,harbor-ai/repositories/0,8,N
+181,685,Yoyo Labs,https://www.yoyolabs.io,N,yoyolabsio/repositories/0,8,Y
+182,785,MetaDoc,https://metadoc.ai,N,Metadoc/repositories/0,8,N
+183,1003,AnChain.ai,https://www.AnChain.ai,N,AnChainAI/repositories/0,8,Y
+184,1112,MeetKai,http://www.meetkai.com,N,MeetKai/repositories/0,8,N
+185,1137,DataFleets,http://www.datafleets.com,N,datafleets/repositories/0,8,N
+186,1193,Galliot,https://galliot.us/,N,galliot-us//repositories/0,8,Y
+187,1221,Verdant,http://verdant.ai,N,VerdantAI/repositories/0,8,Y
+188,1416,Sensible Weather,https://www.sensibleweather.com,N,SensibleWeather/repositories/0,8,N
+189,1445,Tradeswell,https://www.tradeswell.com,N,Tradeswell//repositories/0,8,N
+190,1461,Kraftful,https://www.kraftful.com/,N,kraftful/repositories/0,8,Y
+191,1470,Sewer AI,http://www.sewerai.com,N,sewerai-org//repositories/0,8,N
+192,1722,Alectio,https://www.alectio.com,N,alectio/repositories/0,8,Y
+193,2055,Qimia Inc,https://www.qimia.io,N,qimia/repositories/0,8,N
+194,2341,Centrol.io,https://www.centrol.io,N,centrol-io//repositories/0,8,N
+195,2556,Pluto Biosciences,https://pluto.bio,N,pluto-biosciences//repositories/0,8,Y
+196,2561,Kanari AI,https://kanari.ai/,N,kanari-com//repositories/0,8,N
+197,2599,Hakimo,https://hakimo.ai/,N,hakimo-ai//repositories/0,8,N
+198,2701,Pibit.ai,https://pibit.ai/,N,pibit-ai/repositories/0,8,Y
+199,12,Pixis,https://pixis.ai/,N,pixisai/repositories/0,7,N
+200,51,Proton.ai,https://www.proton.ai,N,ProtonNetwork//repositories/0,7,N
+201,58,Amira Learning,https://www.amiralearning.com/,N,AmiraLearning/repositories/0,7,N
+202,312,Augmented Radar Imaging,https://augmentedradar.com/#,N,augmentedradar/repositories/0,7,N
+203,373,Watermark,https://www.watermarkinsights.com,N,WatermarkInsights/repositories/0,7,Y
+204,412,Ardius,http://www.ardius.com,N,ardiustech/repositories/0,7,Y
+205,590,Engine ML,https://www.engineml.com/,N,EngineML/repositories/0,7,N
+206,724,Pyxis,https://pixis.ai/,N,pixisai/repositories/0,7,N
+207,759,Carbonado Technologies Inc,https://carbonado.tech/,N,Carbonado/repositories/0,7,N
+208,1084,Diffgram,https://diffgram.com/,N,diffgram/repositories/0,7,Y
+209,1132,Striveworks,https://striveworks.com,N,Striveworks/repositories/0,7,Y
+210,1317,Abacus.AI,https://abacus.ai/,N,abacusai/repositories/0,7,Y
+211,1365,Datasaur,https://www.datasaur.ai,N,datasaur-ai//repositories/0,7,N
+212,1394,1build,https://www.1build.com/,N,1build/repositories/0,7,Y
+213,1473,Advocat,https://www.advocat.ai/,N,advocat-ai//repositories/0,7,N
+214,1477,Factored,https://www.factored.ai/,N,factoredai/repositories/0,7,N
+215,1602,NLMatics,https://www.nlmatics.com,N,nlmatics/repositories/0,7,Y
+216,2047,Flet.ai,https://www.flet.ai,N,flet-dev/repositories/0,7,N
+217,2326,ALO,https://alo.ai,N,alo-ai//repositories/0,7,Y
+218,2354,Personal AI,https://personal.ai,N,personal-ai//repositories/0,7,Y
+219,2433,Gridware,https://gridware.io,N,gridware//repositories/0,7,N
+220,2524,Cameralyze,https://www.cameralyze.co,N,cameralyze/repositories/0,7,N
+221,2740,Merlin Mobility,https://www.drivemerlin.com/,N,DriveMerlin//repositories/0,7,N
+222,109,Voxie,https://www.voxie.com/,N,voxie/repositories/0,6,Y
+223,195,FoxyAI,https://www.foxyai.com/,N,foxyai/repositories/0,6,N
+224,378,Qokka,https://qokka.ai,N,Qokka/repositories/0,6,Y
+225,422,Autonom8,https://autonom8.com,N,Autonom8/repositories/0,6,N
+226,511,Talent Ticker,https://www.talentticker.ai/,N,TalentTicker/repositories/0,6,N
+227,513,Shortest Track Company,https://shortesttrack.com/,N,shortesttrack/repositories/0,6,N
+228,574,Bloxy.info,https://bloxy.info,N,Bloxy-info/repositories/0,6,Y
+229,1007,Invisible AI,https://www.invisible.ai,N,invisible-ai/repositories/0,6,N
+230,1042,Geminus.ai,https://www.geminus.ai/,N,Geminus-AI/repositories/0,6,Y
+231,1086,LinkedAI,https://linkedai.co,N,LinkedAi/repositories/0,6,Y
+232,1159,Botcopy,https://botcopy.com/,N,Botcopy/repositories/0,6,Y
+233,1225,Auxin.io,https://www.auxin.io,N,Auxin-io/repositories/0,6,Y
+234,1333,Lexion,https://www.lexion.ai/,N,lexionai/repositories/0,6,N
+235,1342,Hayden AI,http://www.hayden.ai,N,haydenai/repositories/0,6,Y
+236,1349,Falkon AI,http://www.falkon.ai,N,falkonai/repositories/0,6,N
+237,1366,Continual,https://continual.ai/,N,continual-ai/repositories/0,6,Y
+238,1392,NetSpring,https://www.netspring.io/,N,netspringit/repositories/0,6,N
+239,1428,Atomic Industries,https://www.atomic.industries,N,Atomic-Industries/repositories/0,6,N
+240,1452,nFlux AI,https://www.nflux.ai,N,nflux//repositories/0,6,Y
+241,1484,Artifact,https://www.artifact.io,N,Artifact-io/repositories/0,6,Y
+242,1493,Peoplelogic,https://peoplelogic.ai,N,peoplelogic//repositories/0,6,N
+243,1579,Dextrous Robotics,https://www.dextrousrobotics.com,N,DextrousRobotics//repositories/0,6,N
+244,1589,BrightHire,https://brighthire.ai/,N,brighthire//repositories/0,6,Y
+245,1599,IoTFlows Inc,https://www.iotflows.com,N,iotflows//repositories/0,6,Y
+246,1607,ADEx Document Intelligence,https://www.adex.ai,N,adexltd//repositories/0,6,N
+247,1756,Strife AI,https://www.strife.ai/,N,Strife-AI/repositories/0,6,N
+248,1775,Bunkerhill Health,http://www.bunkerhillhealth.com/,N,bunkerhillhealth/repositories/0,6,N
+249,1822,Towards AI,https://towardsai.net/,N,towardsai/repositories/0,6,Y
+250,1866,Constellation Analytics,https://constellationanalytics.com/,N,constellationanalytics/repositories/0,6,N
+251,2171,<Tuple>,http://tuple.xyz,N,tuplexyz/repositories/0,6,N
+252,2352,CopyAI,https://www.copy.ai,N,copy-ai/repositories/0,6,Y
+253,2361,Sensible,https://www.sensible.so,N,sensible-hq//repositories/0,6,Y
+254,2399,Metaphor,https://metaphor.io/,N,MetaphorData//repositories/0,6,Y
+255,2695,taiy.ai,https://www.taiyo.ai,N,Taiyo-ai/repositories/0,6,N
+256,16,NLX,https://nlx.ai,N,nlxai/repositories/0,5,Y
+257,144,Enya.ai,https://enya.ai/,N,enyalabs/repositories/0,5,Y
+258,190,BioTrillion,https://www.biotrillion.com,N,BioTrillion//repositories/0,5,N
+259,256,Playform,http://www.playform.io,N,playform/repositories/0,5,N
+260,343,Optilogic,https://optilogic.com,N,optilogic//repositories/0,5,N
+261,795,PathBase,https://pathbase.io,N,PathBase//repositories/0,5,Y
+262,798,Yolla,https://yollamedia.com,N,YollaMedia/repositories/0,5,N
+263,811,"Audseb, Inc.",https://www.audseb.com,N,audseb/repositories/0,5,N
+264,1044,Pachama,https://www.pachama.com,N,pachama/repositories/0,5,N
+265,1087,Defynance,https://defynance.com,N,DefynanceGH/repositories/0,5,N
+266,1344,MixMode,http://www.mixmode.ai,N,mixmodeai/repositories/0,5,Y
+267,1432,Snorble,https://snorble.com,N,snorble//repositories/0,5,N
+268,1649,Zumo Labs,http://zumolabs.ai,N,ZumoLabs/repositories/0,5,Y
+269,1701,"Henkaku, LLC",https://www.henkaku.ai,N,henkaku//repositories/0,5,N
+270,2010,EazyML,https://eazyml.com/,N,EazyML/repositories/0,5,Y
+271,2300,Workera,https://workera.ai/,N,workera-ai/repositories/0,5,Y
+272,2309,Moises,https://moises.ai,N,moises-ai/repositories/0,5,Y
+273,2415,Colossyan,https://www.colossyan.com/,N,colossyan/repositories/0,5,N
+274,2508,PredictNow.ai Inc.,https://www.predictnow.ai/,N,PredictNowAI//repositories/0,5,Y
+275,2510,SmartHub.ai,https://www.smarthub.ai,N,smarthub-ai/repositories/0,5,N
+276,2546,Bavard AI,https://www.bavard.ai/,N,bavard-ai/repositories/0,5,N
+277,2548,Connectly.ai,https://www.connectly.ai,N,Connectly/repositories/0,5,N
+278,2586,Obviously AI,https://www.obviously.ai/,N,ObviouslyAI/repositories/0,5,Y
+279,2605,MixPose,https://mixpose.com,N,MixPose//repositories/0,5,N
+280,2679,Giftpack,https://giftpack.ai,N,Giftpack/repositories/0,5,Y
+281,2747,Slingshot,https://slingshot.fm,N,slingshot/repositories/0,5,Y
+282,2786,Telepath.io,https://telepath.io,N,telepath-ai/repositories/0,5,Y
+283,14,KoBold Metals,https://www.koboldmetals.com,N,KoBoldMetals/repositories/0,4,N
+284,37,Mosaic,https://www.mosaicapp.com,N,mosaicapp/repositories/0,4,N
+285,44,Amplemarket,https://amplemarket.com/,N,amplemarket/repositories/0,4,Y
+286,70,NODAR,http://www.nodarsensor.com,N,nodarsensor//repositories/0,4,Y
+287,75,Kizen,https://kizen.com,N,kizen/repositories/0,4,Y
+288,81,TrustLayer,https://trustlayer.io/,N,trustlayer/repositories/0,4,Y
+289,135,Insitro,http://www.insitro.com,N,insitro/repositories/0,4,N
+290,197,DTonomy Inc.,https://www.dtonomy.com,N,DTonomy-Inc/repositories/0,4,Y
+291,204,CogniCor,http://www.cognicor.com,N,cognicortechnologies/repositories/0,4,Y
+292,231,CustomerSuccessBox,http://customersuccessbox.com,N,customersuccessbox/repositories/0,4,Y
+293,290,Tempore,https://www.tempore.com,N,temporenc/repositories/0,4,N
+294,502,Open Conjecture,http://openconjecture.com/,N,OpenConjecture/repositories/0,4,N
+295,750,BLOCK id,https://www.blockid.cloud/,N,blockid/repositories/0,4,N
+296,861,DataJet Software,https://www.datajetsoftware.com,N,datajetsoftware/repositories/0,4,N
+297,972,Natively.ai,https://natively.ai,N,natively-project//repositories/0,4,N
+298,1034,Rizse,https://www.rizse.io,N,Rizseinc/repositories/0,4,Y
+299,1138,BigSpring,https://bigspring.io,N,bigspring-io/repositories/0,4,Y
+300,1321,Rephrase.ai,https://rephrase.ai/,N,rephrase-ai/repositories/0,4,N
+301,1322,Nayya,http://www.nayya.com,N,Nayya-com//repositories/0,4,N
+302,1410,Synthetaic,https://www.synthetaic.com/,N,synthetaic/repositories/0,4,N
+303,1441,Lynx MD,https://www.lynx.md,N,LynxMD//repositories/0,4,Y
+304,1466,Pathr.ai,http://pathr.ai,N,pathr/repositories/0,4,Y
+305,1507,KAID Health,https://www.kaidhealth.com/,N,KAIDHealth/repositories/0,4,N
+306,1528,Infinitus Systems,https://www.infinitus.ai,N,infinitusai/repositories/0,4,Y
+307,1533,Xailient,https://www.xailient.com/,N,XailientPublic//repositories/0,4,Y
+308,1582,AMAI,https://amai.io/,N,amai-io/repositories/0,4,N
+309,1621,Vouchery.io,https://www.vouchery.io,N,vouchery/repositories/0,4,Y
+310,1739,Nuclei,https://nuclei.ai,N,NucleiAI/repositories/0,4,Y
+311,1821,Weavr Inc.,https://weavr.ai,N,weavrai/repositories/0,4,N
+312,1825,Marsview.ai,https://www.marsview.ai,N,Marsview/repositories/0,4,N
+313,1850,extension.dev,https://extension.dev/,N,extension-dev/repositories/0,4,Y
+314,1982,SHERLOC,http://www.Sherloc.ai,N,sherlock-project/repositories/0,4,N
+315,2052,M2x.AI,http://www.M2x.ai,N,m2x-dev/repositories/0,4,N
+316,2088,Counter Factual .AI,http://www.counterfactual.ai/,N,CounterFactualAI/repositories/0,4,N
+317,2100,All Vision Technologies,https://www.all.vision/,N,all-vision//repositories/0,4,N
+318,2299,Genesis Therapeutics,https://www.genesistherapeutics.ai/,N,genesistherapeutics/repositories/0,4,N
+319,2357,retrain.ai,https://www.retrain.ai/,N,retrain-ai//repositories/0,4,N
+320,2387,GrayMatter Robotics,https://www.graymatter-robotics.com,N,GrayMatter-Robotics//repositories/0,4,Y
+321,2420,Datrics,https://datrics.ai/,N,datrics-ai/repositories/0,4,Y
+322,2437,Clearbrief,https://clearbrief.com,N,clearbrief-inc//repositories/0,4,N
+323,2526,Multiscale Technologies,https://multiscale.tech,N,multiscale/repositories/0,4,N
+324,2624,Berryworks,https://www.berryworks.ai,N,BerryWorksSoftware/repositories/0,4,N
+325,2650,Pangea Chat,https://www.pangeachat.com,N,pangeachat//repositories/0,4,N
+326,2698,aiXplain,https://aixplain.com/,N,aixplain/repositories/0,4,Y
+327,2806,Preamble,https://www.preamble.com/,N,preambleai//repositories/0,4,N
+328,2831,Soniox,https://soniox.com,N,soniox/repositories/0,4,Y
+329,41,Superb AI,https://www.superb-ai.com,N,Superb-AI-Suite/repositories/0,3,Y
+330,94,Birdie,https://birdie.ai,N,birdie-ai/repositories/0,3,N
+331,104,BlueCargo,https://www.bluecargo.io/,N,bluecargo/repositories/0,3,Y
+332,176,Bright Machines,https://www.brightmachines.com,N,brightmachines//repositories/0,3,N
+333,210,Jido Maps,https://www.jidomaps.com/,N,jidomaps/repositories/0,3,Y
+334,250,Latent AI,http://latentai.com/,N,latentai//repositories/0,3,N
+335,264,Tint.ai,https://www.tint.ai,N,tint-ai/repositories/0,3,Y
+336,278,Around,https://www.around.co,N,around/repositories/0,3,N
+337,317,Amplio.ai,https://www.amplio.ai/,N,Amplio-ai/repositories/0,3,N
+338,438,Tresl,https://tresl.co/,N,tresl-co/repositories/0,3,Y
+339,444,Quantime,https://quantime.ai,N,quantime/repositories/0,3,Y
+340,482,Reveal Technology,https://www.revealtech.ai/,N,revealtech//repositories/0,3,N
+341,540,Scaletech,https://www.scaletech.xyz,N,Team-Scaletech/repositories/0,3,Y
+342,581,Augustus Intelligence,https://augustusai.com,N,augustusai/repositories/0,3,N
+343,657,When Labs,http://www.whenlabs.com/,N,whenlabs/repositories/0,3,N
+344,675,Opinosis Analytics,https://www.opinosis-analytics.com,N,opinosis-analytics/repositories/0,3,Y
+345,711,Infiniwell,https://www.infiniwell.ai/,N,Infiniwell-ai//repositories/0,3,N
+346,778,CloudCosmos,https://cloudcosmos.tech/,N,CloudCosmos//repositories/0,3,Y
+347,992,intenseye,https://intenseye.com,N,intenseye/repositories/0,3,N
+348,1106,Ydrive,https://ydrive.ai,N,ydrive/repositories/0,3,Y
+349,1153,BetterHealth.ai,http://betterhealth.ai,N,betterhealth//repositories/0,3,N
+350,1172,Veamly,https://www.veamly.com/,N,veamly-inc//repositories/0,3,Y
+351,1316,AiDash,https://www.aidash.com,N,aidash/repositories/0,3,Y
+352,1348,d-Matrix,https://www.d-matrix.ai/,N,d-matrix-ai/repositories/0,3,Y
+353,1359,OxeFit,https://www.oxefit.com/,N,OxeFit/repositories/0,3,N
+354,1363,Hopstack,https://www.hopstack.io/,N,hopstack-inc/repositories/0,3,N
+355,1369,Daloopa,https://daloopa.ai,N,daloopa/repositories/0,3,N
+356,1390,Bloomfield Robotics,https://bloomfield.ai,N,BloomfieldRobotics/repositories/0,3,Y
+357,1482,XOKind,https://xokind.com/,N,xokind/repositories/0,3,N
+358,1492,Argoid,https://argoid.ai/,N,Argoid/repositories/0,3,N
+359,1546,Zeni,https://www.zeni.ai/,N,zeni-ai//repositories/0,3,N
+360,1580,Tauruseer,http://tauruseer.com,N,tauruseer/repositories/0,3,Y
+361,1583,BlueSuit,https://www.bluesuit.com,N,BlueSuit/repositories/0,3,N
+362,1619,Borza,https://borza.com,N,sborza/repositories/0,3,N
+363,1642,Maxwell Labs,https://www.maxwell-labs.com/,N,maxwell-labs//repositories/0,3,N
+364,1643,Fluid Power AI,https://fluid-ai.com,N,Fluid-AI//repositories/0,3,N
+365,1697,xiris,https://xiris.ai,N,xIris-Corp//repositories/0,3,Y
+366,1971,Digital Analytica,http://www.digitalanalytica.net,N,digitalanalytica/repositories/0,3,N
+367,2089,Row64,https://row64.com,N,Row64//repositories/0,3,Y
+368,2143,Hive Forensics AI,https://hiveforensics.com,N,HiveForensics-AI/repositories/0,3,Y
+369,2386,Credo AI,https://www.credo.ai/,N,Credo-AI/repositories/0,3,N
+370,2405,Climavision,https://www.climavision.com,N,Climavision/repositories/0,3,N
+371,2406,Ozette Technologies,https://ozette.ai,N,OzetteTech/repositories/0,3,N
+372,2410,Base64.ai,https://base64.ai,N,base64ai//repositories/0,3,Y
+373,2413,Headroom,https://www.goheadroom.com/,N,goheadroom//repositories/0,3,N
+374,2496,Anari AI,http://anari.ai/,N,Anari-AI/repositories/0,3,Y
+375,2557,MetaSpark Corporation,https://metaspark.io,N,metaspark-io/repositories/0,3,Y
+376,2559,Canaery,https://www.canaery.com/,N,canaery/repositories/0,3,N
+377,2692,Censius,https://censius.ai/,N,Censius/repositories/0,3,N
+378,2752,Databar.ai,https://www.databar.ai,N,databar-ai//repositories/0,3,N
+379,2794,Ai-OPs,https://www.ai-op.com,N,AI-OP//repositories/0,3,N
+380,2797,Troopr,https://www.troopr.ai,N,Troopr-Production//repositories/0,3,N
+381,2851,"HeartRithm, LLC",https://www.heartrithm.com,N,heartrithm/repositories/0,3,Y
+382,2856,Y Meadows,https://ymeadows.com,N,ymeadows/repositories/0,3,Y
+383,2867,Orma Health,https://ormahealth.com/,N,ormahealth//repositories/0,3,Y
+384,20,Atexto,https://atexto.com,N,Atexto/repositories/0,2,N
+385,46,Lunchclub,https://lunchclub.com,N,lunchclub//repositories/0,2,N
+386,67,Crosschq,https://crosschq.com,N,CrossChq/repositories/0,2,N
+387,86,Akridata,https://akridata.com,N,akridata-ai/repositories/0,2,N
+388,88,Root AI,https://root-ai.com,N,root-ai/repositories/0,2,N
+389,162,WeaveGrid,https://www.weavegrid.com,N,weavegrid/repositories/0,2,N
+390,209,AdaViv,https://www.adaviv.com/,N,AdaViv/repositories/0,2,Y
+391,228,Sapling.ai,https://sapling.ai,N,saplingai/repositories/0,2,Y
+392,229,Codify,https://www.codify.ai/,N,GetCodifyAI/repositories/0,2,N
+393,236,Simporter,https://www.simporter.com/,N,Simporter/repositories/0,2,N
+394,243,Color Intelligence,https://colourlab.ai,N,Colourlab-Ai//repositories/0,2,N
+395,272,Speeko,https://www.speeko.co/,N,speekoapp/repositories/0,2,N
+396,333,Polysentry,https://www.polysentry.com,N,PolySentry//repositories/0,2,N
+397,382,Custodia,https://www.custodia.ai,N,custodia-team//repositories/0,2,Y
+398,384,GLIDER.ai,http://glider.ai,N,gliderai/repositories/0,2,N
+399,404,Micro.ai,https://www.micro.ai/,N,micro-ai/repositories/0,2,N
+400,459,BrdgAI,https://brdg.ai/,N,brdg-ai/repositories/0,2,N
+401,476,Bola AI,https://www.bola.ai,N,Bola-AI/repositories/0,2,N
+402,480,Bees360,https://www.bees360.com,N,bees360//repositories/0,2,N
+403,508,Opplane,https://opplane.com,N,Opplane/repositories/0,2,Y
+404,523,Dhan AI,https://www.dhan.ai/,N,dhan2018/repositories/0,2,N
+405,536,Datics AI,http://datics.ai,N,datics/repositories/0,2,N
+406,596,transformAI,https://transformai.com,N,transformAI/repositories/0,2,N
+407,604,Perfect Tense,https://www.perfecttense.com,N,perfecttense/repositories/0,2,Y
+408,644,eCourtDate,https://ecourtdate.com/,N,ecourtdate/repositories/0,2,Y
+409,663,Clean Water AI,http://www.cleanwaterai.com,N,CleanWaterAI//repositories/0,2,N
+410,669,Foresite.ai,https://foresite.ai,N,foresite-ai//repositories/0,2,Y
+411,695,JetML,https://jetml.com/,N,jetml/repositories/0,2,Y
+412,791,Mindscale.ai,https://www.mindscale.ai/,N,mindscale//repositories/0,2,N
+413,844,Almaty Health,https://www.almatyhealth.com/,N,AlmatyHealth/repositories/0,2,N
+414,903,Latticework Insights,https://www.latticeworkinsights.com/,N,LatticeworkInsights//repositories/0,2,Y
+415,919,Xion,http://www.xion.ai,N,xion-global//repositories/0,2,N
+416,986,SiMa.ai,https://sima.ai,N,SiMa-ai//repositories/0,2,N
+417,1000,RIOS,http://www.rios.ai,N,rios-ai//repositories/0,2,N
+418,1013,Everestlabs.AI,http://www.everestlabs.ai,N,everestlabsai//repositories/0,2,N
+419,1038,Windsor.io,https://windsor.io/,N,windsorio/repositories/0,2,Y
+420,1066,Epistemic AI,https://www.epistemic.ai,N,epistemic-ai//repositories/0,2,N
+421,1071,AIxMed,https://www.aixmed.com/,N,AIxMed/repositories/0,2,Y
+422,1092,Capture Technologies,https://capture.tech/,N,capturetechnologies/repositories/0,2,Y
+423,1109,Wrench.AI,https://wrench.ai/,N,WrenchAI/repositories/0,2,Y
+424,1155,Vast.ai,https://vast.ai,N,vast-ai/repositories/0,2,Y
+425,1249,miiCloud,http://www.miicloud.io,N,miiCloud/repositories/0,2,Y
+426,1270,Codebot AI Technologies,http://codebotai.com,N,CodeBotAi//repositories/0,2,N
+427,1351,Kettle,http://ourkettle.com,N,OurKettle//repositories/0,2,N
+428,1352,Akkio,https://www.akkio.com/,N,akkio-inc/repositories/0,2,N
+429,1357,ActZero.ai,http://www.actzero.ai,N,actzeroai/repositories/0,2,Y
+430,1358,PictorLabs,https://www.pictorlabs.ai,N,pictorlabs//repositories/0,2,N
+431,1370,PostEra,https://postera.ai,N,postera-ai//repositories/0,2,Y
+432,1430,NavTrac,http://www.navtrac.com/,N,navtrac//repositories/0,2,N
+433,1455,Intelligent Racing,https://intelligentracing.com/,N,intelligentracing//repositories/0,2,Y
+434,1539,Biocogniv,https://biocogniv.com/,N,biocogniv//repositories/0,2,N
+435,1584,Vasitum,https://vasitum.com,N,VasitumInc/repositories/0,2,N
+436,1740,Facel,https://facel.tech,N,facel-tech//repositories/0,2,Y
+437,1773,Zammo.ai,https://zammo.ai/,N,zammo-ai/repositories/0,2,N
+438,1799,Decode Health,http://decodehealth.ai/,N,decodehealth/repositories/0,2,N
+439,1831,Repurpose.AI,https://repurpose.ai,N,repurpose//repositories/0,2,N
+440,1853,Authentic Artists,https://www.authentic-artists.ai/,N,authentic-artists//repositories/0,2,N
+441,1934,StreamAI,https://stream-ai.io,N,stream-ai/repositories/0,2,N
+442,1937,AMTIL,https://amtil.co,N,amtiltech//repositories/0,2,N
+443,2032,Abiliti,https://abiliti.co/,N,abilitiinc/repositories/0,2,Y
+444,2339,Tallas Biotech Inc.,https://tallas.io,N,TallasBiotech/repositories/0,2,N
+445,2360,Hebbia,http://hebbia.ai/,N,hebbia/repositories/0,2,N
+446,2436,NyquistData,https://nyquistdata.com/,N,nyquistdata/repositories/0,2,Y
+447,2461,Pratexo,https://pratexo.com/,N,pratexo/repositories/0,2,N
+448,2462,Noteworthy AI,https://noteworthy.ai,N,noteworthy/repositories/0,2,N
+449,2504,Interplai,https://interpl.ai/,N,Interplai/repositories/0,2,N
+450,2549,GoalProfit,https://www.goalprofit.com/,N,GoalProfit//repositories/0,2,N
+451,2554,Thumb Technologies,https://www.thumb-technologies.com,N,Thumb-Technologies//repositories/0,2,N
+452,2579,FlashPCB,https://www.flashpcb.com/,N,FlashPCB//repositories/0,2,Y
+453,2581,Modulus Therapeutics,https://www.modulustherapeutics.com,N,ModulusTherapeutics/repositories/0,2,N
+454,2613,outloud.ai,https://outloud.ai/,N,outloudai/repositories/0,2,Y
+455,2652,Shamrck,https://shamrck.com,N,shamrck//repositories/0,2,Y
+456,2685,Hyfe,https://www.hyfe.ai/,N,hyfe-ai//repositories/0,2,N
+457,2730,SolasAI,https://solas.ai,N,SolasAI//repositories/0,2,Y
+458,15,ZeroEyes,https://zeroeyes.com/,N,ZeroEyesTech/repositories/0,1,N
+459,57,ConverseNow,http://www.conversenow.ai/,N,conversenow//repositories/0,1,N
+460,110,Virtual Facility,https://www.virtualfacility.ai,N,virtualfacility/repositories/0,1,N
+461,116,Docugami,http://docugami.com,N,docugami//repositories/0,1,N
+462,119,Motion2Ai,https://motion2ai.com/,N,motion2ai/repositories/0,1,Y
+463,131,SPATE,https://spate.nyc,N,SPATENYC//repositories/0,1,Y
+464,133,CognitOps,https://cognitops.com/,N,CognitOps/repositories/0,1,N
+465,138,Ennoventure,https://www.ennoventure.com,N,Ennoventure/repositories/0,1,N
+466,149,Sentropy Technologies,https://sentropy.com,N,sentropytechnologies//repositories/0,1,Y
+467,183,Brightest,https://www.brightest.io,N,brightestinc/repositories/0,1,Y
+468,208,Potion,http://www.potion.ai,N,potion-ai/repositories/0,1,N
+469,214,Lingco Language Labs,http://www.lingco.io/,N,LingcoLanguageLabs/repositories/0,1,Y
+470,226,3co,http://3co.ai,N,3cology/repositories/0,1,Y
+471,245,SHO.ai,https://sho.ai/,N,Sho-ai/repositories/0,1,Y
+472,257,Beagle Learning,https://en.beaglelearning.com,N,BeagleLearning/repositories/0,1,N
+473,260,Lab Me Analytics,http://www.labme.ai/,N,labme/repositories/0,1,N
+474,281,UnitX,https://www.unitxlabs.com,N,unitxlabs/repositories/0,1,N
+475,291,ORBAI,https://www.orbai.ai/,N,ORBAI/repositories/0,1,N
+476,370,HypeAuditor,http://hypeauditor.com,N,hypeauditor//repositories/0,1,N
+477,371,Project Rnin,https://www.projectronin.com/,N,projectronin/repositories/0,1,N
+478,391,Supportiv,http://www.supportiv.com/,N,Supportiv//repositories/0,1,N
+479,417,Daytoday Health,https://www.daytoday.health/,N,daytodayhealth/repositories/0,1,Y
+480,426,ALFI,https://www.getalfi.com/,N,getalfi/repositories/0,1,Y
+481,439,OnKAI,https://onkai.co/,N,onKai//repositories/0,1,N
+482,497,Ed Machina,https://edmachina.com,N,edmachina//repositories/0,1,N
+483,541,Stitched Insights,https://www.stitchedinsights.com/,N,stitchedinsights/repositories/0,1,N
+484,544,Metric.ai,http://www.metric.ai,N,metric-ai/repositories/0,1,Y
+485,601,Hound Software,http://www.houndsoftware.net,N,HoundSoftware//repositories/0,1,N
+486,656,Remeeting,https://remeeting.com,N,remeeting//repositories/0,1,Y
+487,722,Gideon,https://www.gideon.legal/,N,gideon-legal//repositories/0,1,N
+488,846,CloudSqueeze,https://www.cloudsqueeze.ai/,N,cloudsqueeze/repositories/0,1,Y
+489,859,Brightbots,https://brightbots.co/,N,BrightbotsAI//repositories/0,1,Y
+490,974,Daizik,https://daizika.com,N,daizika//repositories/0,1,N
+491,1004,Healthee,https://healthee.co,N,GetHealthee/repositories/0,1,Y
+492,1010,Boomy,https://boomy.com,N,boomycorp/repositories/0,1,Y
+493,1016,GenesisAI,https://invest.genesisai.io/,N,genesisai-io/repositories/0,1,N
+494,1026,Saile,https://saile.ai,N,saile-ai//repositories/0,1,N
+495,1048,AI Insurance,https://www.aiinsurance.io/,N,aiinsurance//repositories/0,1,N
+496,1064,Kleeen Software,https://kleeen.software,N,KLEEEN-SOFTWARE/repositories/0,1,N
+497,1089,Caravel,http://www.caravelapp.com,N,CaravelApp/repositories/0,1,Y
+498,1090,nyfty.ai,https://nyfty.ai,N,Nyfty/repositories/0,1,N
+499,1100,IndustrialML,https://www.industrialml.com/,N,industrialml-inc/repositories/0,1,N
+500,1118,Intvo,https://intvo.com,N,intvo/repositories/0,1,Y
+501,1141,DragonflAI,https://www.dragonflai.co,N,DragonflAI-tech//repositories/0,1,N
+502,1186,GreenData.IO,https://greendata.io,N,greendata-ai/repositories/0,1,N
+503,1187,Encore,http://encore.hornblower.com/,N,hornblower/repositories/0,1,N
+504,1200,Omnidya,http://www.omnidya.com/,N,omnidya-insurtech/repositories/0,1,Y
+505,1254,Syntexys,https://syntexys.com/,N,Syntexys/repositories/0,1,Y
+506,1282,stratEDGE App,https://www.stratedge-app.com,N,stratedge-app/repositories/0,1,Y
+507,1313,EvolutionIQ,http://www.evolutioniq.com,N,EvolutionIQ/repositories/0,1,N
+508,1319,Kodezi,https://kodezi.com/,N,Kodezi/repositories/0,1,Y
+509,1340,Brightflow AI,https://www.brightflow.ai/,N,Brightflow-AI/repositories/0,1,N
+510,1361,Entos,https://www.entos.ai/,N,EntosAI/repositories/0,1,N
+511,1375,Agot.AI,https://agot.ai/,N,Agot-ai/repositories/0,1,N
+512,1386,FutureFit AI,https://www.futurefit.ai/,N,FutureFit-ai//repositories/0,1,Y
+513,1409,Auditoria.AI,https://www.auditoria.ai,N,Auditoria//repositories/0,1,N
+514,1417,Syntegra,https://www.syntegra.io,N,Syntegra//repositories/0,1,Y
+515,1457,HASH,https://hash.ai,N,Hash-AI//repositories/0,1,N
+516,1462,Glacier,https://endwaste.io/,N,endwaste//repositories/0,1,N
+517,1467,Singuli,https://singuli.co,N,singulico//repositories/0,1,Y
+518,1499,Dresma,http://dresma.ai,N,dresma/repositories/0,1,N
+519,1545,Orum.io,https://www.orum.io/,N,orum-io/repositories/0,1,Y
+520,1549,Monitaur,https://www.monitaur.ai/,N,monitaur/repositories/0,1,N
+521,1600,DataPrime,https://prime.ai/,N,PRIME-AI-GITHUB/repositories/0,1,N
+522,1609,Oncospace,https://www.oncospace.com/,N,oncospace/repositories/0,1,N
+523,1622,OfColor,http://www.ofcolor.com,N,WeAreOfColor/repositories/0,1,N
+524,1624,DeepSee.ai,https://deepsee.ai/,N,deepseeai/repositories/0,1,Y
+525,1703,Parkva,https://www.parkva.com,N,Parkva//repositories/0,1,N
+526,1733,Hexact,https://hexact.io,N,HexAct/repositories/0,1,Y
+527,1754,Team.ai,https://www.team.ai/,N,TEAM-AI/repositories/0,1,N
+528,1768,Archipelo,https://archipelo.com/,N,Archipelo/repositories/0,1,Y
+529,1777,SpeedLegal,https://speedlegal.io/,N,speedlegal/repositories/0,1,N
+530,1790,BasicAI,http://www.basic.ai,N,basicai/repositories/0,1,Y
+531,1803,FetchyFox,https://www.FetchyFox.com,N,fetchyfox/repositories/0,1,N
+532,1827,ModelFront,https://modelfront.com,N,modelfront/repositories/0,1,Y
+533,1847,WiteSand,https://www.witesand.io/,N,witesand/repositories/0,1,N
+534,1874,Zinvest,https://www.zvstus.com,N,zvstus/repositories/0,1,N
+535,1948,innov8.ag,https://www.innov8.ag,N,innov8ag//repositories/0,1,Y
+536,2005,Baseet.ai,https://baseet.ai,N,BaseetApp//repositories/0,1,N
+537,2064,Latent Sciences,https://latentsci.com/,N,LatentSciences//repositories/0,1,Y
+538,2098,Convexa,https://convexa.ai/,N,convexa/repositories/0,1,Y
+539,2182,Innovaite,https://www.innovaite.com/,N,TeamInnovAIte/repositories/0,1,N
+540,2201,Aetherial & Company,https://www.aetherial.company/,N,aetherialco/repositories/0,1,N
+541,2241,NLU Sense,https://nlusense.com,N,nlusense/repositories/0,1,Y
+542,2253,Cardiac Patterns,https://cardiacpatterns.ai/,N,cardiacpatterns//repositories/0,1,N
+543,2325,Zaden Technologies,https://zadentech.com,N,ZadenTechnologies/repositories/0,1,N
+544,2340,Easy Text AI,http://EasyText.AI,N,easytext-ai/repositories/0,1,N
+545,2353,Cardiosense,https://www.cardiosense.com,N,CardioSense/repositories/0,1,N
+546,2355,Protopia AI,https://www.protopia.ai,N,protopia-ai/repositories/0,1,N
+547,2369,Copysmith,http://copysmith.ai/,N,Copysmithai/repositories/0,1,N
+548,2379,FairPlay,https://fairplay.ai/,N,FairPlay-AI//repositories/0,1,N
+549,2381,Voxel,https://www.voxelai.com,N,voxelai//repositories/0,1,N
+550,2402,Hammoq,http://www.hammoq.com,N,Hammoq-Inc/repositories/0,1,Y
+551,2423,Included,https://included.ai/,N,included-ai//repositories/0,1,N
+552,2429,Hidden Door,https://www.hiddendoor.co,N,HiddenDoor/repositories/0,1,Y
+553,2435,Maple,https://www.growmaple.com/,N,growmaple/repositories/0,1,N
+554,2466,CITYDATA.ai,http://citydata.ai,N,citydataai/repositories/0,1,Y
+555,2469,Avalo,https://www.avalo.ai,N,avalo-ai//repositories/0,1,N
+556,2488,Retisio,https://www.retisio.com/,N,RETISIO/repositories/0,1,Y
+557,2507,Claira,https://www.claira.ai/,N,Claira-AI//repositories/0,1,N
+558,2533,TrenderTag,https://www.trender.ai/,N,trenderai/repositories/0,1,N
+559,2538,BeMe.ai,http://beme.ai,N,beme//repositories/0,1,N
+560,2540,FreightFlows,https://freightflows.com,N,freightflows/repositories/0,1,N
+561,2543,Steelhead Technologies,https://gosteelhead.com/,N,gosteelhead/repositories/0,1,Y
+562,2562,The Collaboratory,https://thecollaboratory.ai/collaboratory/,N,TheCollaboratory/repositories/0,1,N
+563,2570,PredictAP,https://predictap.com/,N,PredictAP//repositories/0,1,N
+564,2659,SportAI,https://sportai.io/,N,sportai/repositories/0,1,N
+565,2717,Akooda,https://www.akooda.co/,N,akooda/repositories/0,1,Y
+566,2741,Masterful AI,http://www.masterfulai.com,N,masterfulai//repositories/0,1,N
+567,2753,Filmustage,https://filmustage.com/,N,filmustage/repositories/0,1,Y
+568,2757,Stochastic,https://www.stochastic.ai,N,stochasticai/repositories/0,1,N
+569,2811,Nytro.ai,https://www.nytro.ai,N,nytro-platform/repositories/0,1,N
+570,2812,CloudAEye,https://www.cloudaeye.com/,N,CloudAEye//repositories/0,1,Y
+571,2862,Pre Health,https://www.pre.health,N,Pre-Health/repositories/0,1,N
+572,2868,Kinisi,https://www.kinisi.ai,N,kinisi-labs/repositories/0,1,Y

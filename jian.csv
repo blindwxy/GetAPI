@@ -1,0 +1,575 @@
+,0,1,2,3,4,5,6,7
+0,,0,1,2,3,4,5,6
+1,0.0,22,acceldata,http://acceldata.io,N,acceldata-io,30,Y
+2,1.0,28,Searchlight,https://www.searchlight.ai/,N,Searchlight,30,N
+3,2.0,43,Neurosity,https://www.neurosity.co/,N,neurosity,30,N
+4,3.0,45,Iterative.ai,https://iterative.ai,N,iterative,30,Y
+5,4.0,62,Luxonis,https://www.luxonis.com,N,luxonis,30,Y
+6,5.0,91,alwaysAI,http://www.alwaysai.co/,N,alwaysai,30,N
+7,6.0,102,Cape Privacy,https://capeprivacy.com/,N,capeprivacy,30,N
+8,7.0,112,Sorcero,http://www.sorcero.com,N,sorcero,30,Y
+9,8.0,115,Dexai Robotics,https://www.dexai.com/,N,DexaiRobotics,30,Y
+10,9.0,163,Apres,http://www.apres.io,N,Apress,30,N
+11,10.0,235,Ai4,https://ai4.io,N,AI4Finance-Foundation,30,N
+12,11.0,241,Auxon,https://auxon.io,N,auxoncorp,30,N
+13,12.0,329,Riv,https://riv.co,N,rive-app,30,N
+14,13.0,403,Hypergiant,http://hypergiant.com/,N,gohypergiant,30,Y
+15,14.0,490,MLCommons,https://mlcommons.org/en/,N,mlcommons,30,N
+16,15.0,566,Ampsight,https://www.ampsight.com,N,ampsight,30,N
+17,16.0,608,Burt Intelligence,https://www.burtcorp.com,N,burtcorp,30,N
+18,17.0,613,IoT/AI,https://iot.ai,N,NVIDIA-AI-IOT,30,N
+19,18.0,747,Kibernetika.AI,https://kibernetika.ai/,N,kibernetika-ai,30,N
+20,19.0,836,Method Data Science,http://www.methoddatascience.com,N,methoddatascience,30,Y
+21,20.0,997,Symbl.ai,https://symbl.ai,N,symblai,30,Y
+22,21.0,1005,Clockwork,https://clockwork.net,N,ClockworkNet,30,N
+23,22.0,1014,Blitz App,https://blitz.gg/,N,theblitzapp,30,Y
+24,23.0,1036,Merico,https://meri.co,N,merico-dev,30,N
+25,24.0,1041,Pixie,https://pixielabs.ai/,N,pixielabs,30,N
+26,25.0,1043,Scylla,https://scylla.ai,N,scylladb,30,N
+27,26.0,1049,NimbleBox.ai,https://www.nimblebox.ai,N,NimbleBoxAI,30,N
+28,27.0,1065,Streamlit,https://www.streamlit.io,N,streamlit,30,N
+29,28.0,1184,Poppy AI,https://www.poppy.ai/,N,poppy-project,30,N
+30,29.0,1312,Anyscale,https://anyscale.com,N,anyscale,30,Y
+31,30.0,1318,OctoML,https://octoml.ai,N,octoml,30,Y
+32,31.0,1324,CAST AI,https://www.cast.ai/,N,castai,30,Y
+33,32.0,1328,Edge Impulse,https://www.edgeimpulse.com,N,edgeimpulse,30,Y
+34,33.0,1337,Heartex,https://heartex.com/,N,heartexlabs,30,N
+35,34.0,1354,Machina Labs,https://machinalabs.ai,N,Machinalabs,30,N
+36,35.0,1387,Pactum,https://www.pactum.com/,N,pactum,30,N
+37,36.0,1440,Saturn Cloud,https://www.saturncloud.io/,N,saturncloud,30,Y
+38,37.0,1448,YData,https://ydata.ai,N,ydataai,30,Y
+39,38.0,1476,Opora,https://www.opora.io/,N,OPORA,30,N
+40,39.0,1517,Roboflow,https://roboflow.com/,N,Roboflow,30,Y
+41,40.0,1534,Neu.ro Inc,https://neu.ro,N,neuro-inc,30,Y
+42,41.0,1656,Watchout!AI,https://www.watchout.ai,N,watchout-tw,30,N
+43,42.0,1765,SERP,https://serp.co,N,serpapi,30,N
+44,43.0,1788,Persistence AI,https://www.persistence.ai/,N,persistenceOne,30,N
+45,44.0,1984,Arrivu Technologies,https://www.arrivu.com,N,arrivu,30,N
+46,45.0,1987,Tangible AI,http://www.tangibleai.com,N,tangibleai,30,Y
+47,46.0,2000,Epik,http://www.epik.ai,N,EpiK-Protocol,30,N
+48,47.0,2302,Modzy,https://www.modzy.com,N,modzy,30,Y
+49,48.0,2313,Algoritmi Vision,https://plex.page/,N,plexinc,30,N
+50,49.0,2391,Coiled,https://coiled.io/,N,coiled,30,Y
+51,50.0,2468,Aftershoot,https://aftershoot.com,N,aftershootco,30,Y
+52,51.0,2491,VESSL AI,https://vessl.ai/,N,vessl-ai,30,Y
+53,52.0,2542,Precog Data,https://precog.com/,N,precog,30,Y
+54,53.0,2585,Hammer Of The Gods,https://hotg.ai/,N,hotg-ai,30,N
+55,54.0,2675,BlueHalo,https://www.bluehalo.com/,N,bluehalo,30,N
+56,55.0,2775,Scrypt,https://scrypt.ai,N,sCrypt-Inc,30,N
+57,56.0,748,QuantRocket,https://www.quantrocket.com/,N,quantrocket-llc,28,Y
+58,57.0,2112,mederrata,https://www.mederrata.com,N,mederrata,28,N
+59,58.0,2372,Viam,https://www.viam.com,N,viamrobotics,28,Y
+60,59.0,1608,Teknoir,https://www.teknoir.ai/,N,teknoir,27,Y
+61,60.0,1486,Logiq.ai,https://logiq.ai/,N,logiqai,26,Y
+62,61.0,90,Activeloop,https://activeloop.ai,N,activeloopai,25,Y
+63,62.0,1371,Beacon Biosignals,http://beacon.bio,N,ga4gh-beacon,25,N
+64,63.0,1438,Anno.Ai,https://anno.ai/,N,anno-ai,25,Y
+65,64.0,1844,Zeblok Computational,https://www.zeblok.com/,N,zeblok,25,N
+66,65.0,2168,OneCampus Academy,https://www.onecampus.co,N,onecampus,25,N
+67,66.0,50,rct AI,https://rct.ai/,N,rct-ai,24,Y
+68,67.0,82,Kalepa,https://www.kalepa.com,N,Kalepa,24,Y
+69,68.0,812,Trybe.ai,https://www.trybe.ai/,N,trybe,24,N
+70,69.0,1015,Voxel51,https://voxel51.com/,N,voxel51,24,Y
+71,70.0,1029,Station A,https://stationa.com,N,StationA,24,Y
+72,71.0,2441,Compose.AI,http://www.compose-ai.com/,N,compose-ai,24,N
+73,72.0,47,SupplyPike,https://www.supplypike.com,N,supplypike,23,N
+74,73.0,7,Traceable,https://www.traceable.ai/,N,Traceableai,22,N
+75,74.0,69,Carbon Robotics,https://carbonrobotics.com,N,carbonrobotics,22,N
+76,75.0,440,Celerative,http://celerative.com,N,celerative,22,N
+77,76.0,658,Woxi,https://woxi.io,N,woxiprogrammers,22,N
+78,77.0,1401,Evolv AI,https://www.evolv.ai/,N,evolv-ai,22,Y
+79,78.0,1407,WhyLabs,https://whylabs.ai/,N,whylabs,22,N
+80,79.0,1412,CompScience,http://www.compscience.com,N,compsciencelab,22,N
+81,80.0,1442,Viaduct,http://www.viaduct.ai,N,viaduct-ai,22,Y
+82,81.0,1824,Grid.ai,https://www.grid.ai/,N,gridai,22,N
+83,82.0,1374,Faros AI,https://www.faros.ai/,N,faros-ai,21,Y
+84,83.0,1654,AICG,http://aicg.com,N,aicglabs,21,N
+85,84.0,1272,NoviSystems Inc.,https://www.novi.systems,N,NoviSystems,20,N
+86,85.0,1336,Baseten,https://www.baseten.co/,N,basetenlabs,20,N
+87,86.0,157,Sisu,https://sisudata.com,N,sisudata,19,N
+88,87.0,447,AutonomIQ,http://www.autonomiq.io,N,Autonomiq,19,N
+89,88.0,762,9to5,http://www.9to5.ai,N,9to5,19,N
+90,89.0,821,Lum AI,https://lum.ai,N,lum-ai,19,Y
+91,90.0,385,DiscreetAI,https://www.discreetai.com/,N,DiscreetAI,18,N
+92,91.0,764,RSquared AI,https://www.rsquared.ai/,N,rsquaredacademy,18,N
+93,92.0,1665,MaiVERIC,https://maiveric.com,N,maiveric,18,N
+94,93.0,1812,Pumas-AI,https://pumas.ai/,N,PumasAI,18,Y
+95,94.0,2408,Semiotic AI,https://www.semiotic.ai/,N,semiotic-ai,18,N
+96,95.0,2467,Nile AI,https://www.nile.ai,N,nileorg,18,N
+97,96.0,2500,Spyn,http://www.spyn.ai/,N,spynai,18,N
+98,97.0,147,Somatic,http://getsomatic.com,N,getsomatic,17,Y
+99,98.0,717,SmartAssist,https://smartassist.io/,N,smartassistco,17,N
+100,99.0,1237,Chainterra,https://www.chainterra.com/,N,ChainTerra,17,Y
+101,100.0,1335,Horizon3.ai,https://www.horizon3.ai,N,horizon3ai,17,N
+102,101.0,1379,Segmed,https://www.segmed.ai,N,segmed,17,Y
+103,102.0,1419,Launchable,https://www.launchableinc.com/,N,launchableinc,17,N
+104,103.0,1459,Sturdy,https://www.sturdy.ai,N,sturdy-dev,17,N
+105,104.0,2167,ICOG,https://www.icog.ai/,N,iCogLabs,17,N
+106,105.0,2767,Crypto Bank,https://www.crypto-bank.io/,N,crypto-bank,17,N
+107,106.0,13,Nightfall AI,https://www.nightfall.ai,N,nightfallai,16,Y
+108,107.0,831,Butter Works,http://butter.works,N,butterproject,16,N
+109,108.0,1355,Synthesis AI,http://synthesis.ai/,N,Synthesis-AI-Dev,16,Y
+110,109.0,1516,Everguard.ai,https://www.everguard.ai/,N,everguard-inc,16,N
+111,110.0,1540,Knowt,https://knowt.io,N,Knowt,16,N
+112,111.0,1770,Tarteel,https://tarteel.ai,N,Tarteel-io,16,Y
+113,112.0,1019,The Routing Company,https://theroutingcompany.com/,N,theroutingcompany,15,Y
+114,113.0,1332,Deepnote,https://www.deepnote.com/,N,deepnote,15,Y
+115,114.0,1572,Riley,http://riley.ai,N,rileyai,15,Y
+116,115.0,1772,Source Medium,https://www.sourcemedium.com,N,SourceMedium,15,N
+117,116.0,1994,Merlin,https://www.merlin.tech,N,NVIDIA-Merlin,15,N
+118,117.0,815,CollectiWise,https://www.collectiwise.com,N,CollectiWise,14,N
+119,118.0,1035,Orbiit,https://orbiit.ai,N,Orbiit,14,N
+120,119.0,1341,Bodo.ai,https://bodo.ai/,N,Bodo-inc,14,N
+121,120.0,1465,Sosivio,https://sosiv.io/,N,Sosivio,14,N
+122,121.0,1637,xaana.ai,https://xaana.ai,N,xaana,14,Y
+123,122.0,2479,CoCoPIE,https://www.cocopie.ai/,N,CoCoPIE-Group,14,Y
+124,123.0,141,Freedom Robotics,http://www.freedomrobotics.com,N,freedomrobotics,13,N
+125,124.0,203,SetSail,https://www.setsail.co,N,setsailco,13,N
+126,125.0,1074,CKM Analytix,https://www.ckmanalytix.com,N,ckmanalytix,13,N
+127,126.0,1400,XL8,https://XL8.ai,N,xl8-ai,13,N
+128,127.0,1586,Hank AI,https://hank.ai,N,hank-ai,13,Y
+129,128.0,1893,Jewel ML,https://jewelml.com,N,jewelml,13,N
+130,129.0,2688,Skan Technologies,http://www.skan.io/,N,skan-io,13,N
+131,130.0,2700,CoParse,https://coparse.com/,N,coparse-inc,13,N
+132,131.0,2828,Growth Engine,https://growthengineai.com/,N,GrowthEngineAI,13,Y
+133,132.0,310,ImmunoMind,https://immunomind.io/,N,immunomind,12,Y
+134,133.0,334,SOCO.AI,https://www.soco.ai,N,soco-ai,12,Y
+135,134.0,714,S20.AI,https://www.s20.ai/,N,s20ai,12,N
+136,135.0,1274,"Altola, Inc.",https://altola.co,N,altola,12,Y
+137,136.0,1314,Tecton,https://tecton.ai/,N,tecton-ai,12,N
+138,137.0,1426,Cornelis Networks,https://cornelisnetworks.com/,N,cornelisnetworks,12,Y
+139,138.0,1830,FourthBrain,http://www.fourthbrain.ai,N,FourthBrain,12,Y
+140,139.0,1963,Docuvision,http://www.docuvision.ai,N,docuvision,12,N
+141,140.0,2611,Digital.ai,http://www.digital.ai/,N,digital-ai,12,N
+142,141.0,2732,Digital.ai,https://digital.ai,N,digital-ai,12,Y
+143,142.0,8,Mutiny,https://www.mutinyhq.com,N,MutinyHQ,11,N
+144,143.0,33,Sirona Medical,https://www.sironamedical.com/,N,SironaMedical,11,N
+145,144.0,35,Dyno Therapeutics,https://www.dynotx.com,N,dynotx,11,Y
+146,145.0,222,CurieVision,https://curie.co,N,curie-data-factory,11,N
+147,146.0,266,Jobot,https://jobot.com/,N,teamjobot,11,Y
+148,147.0,1085,MindStand Technologies,http://MindStand.com,N,mindstand,11,N
+149,148.0,1464,Hyperspec-ai,https://hyperspec.ai,N,hyperspec-ai,11,Y
+150,149.0,2018,Intercept CX,http://intercept.cx,N,Intercept,11,N
+151,150.0,2378,OthersideAI,https://www.othersideai.com,N,OthersideAI,11,N
+152,151.0,2422,Union.ai,https://union.ai/,N,unionai,11,Y
+153,152.0,2449,Known Medicine,https://www.knownmed.com/,N,knownmed,11,N
+154,153.0,175,Singularity.AI,http://www.singularity.ai/,N,Singularity-AI,10,N
+155,154.0,238,Pitch Inc.,https://pitch.studio,N,pitch-io,10,N
+156,155.0,300,WayLit,https://www.waylit.com,N,WayLit,10,Y
+157,156.0,546,Secomind,https://secomind.ai,N,secomind,10,N
+158,157.0,1201,TrainingData.io,https://www.trainingdata.io,N,trainingdata,10,Y
+159,158.0,1526,Ren,https://rensystems.com/,N,RenSystems,10,N
+160,159.0,1562,Shiftlab,https://shiftlab.io/,N,Systems-ShiftLab,10,N
+161,160.0,1985,Modelyst,http://modelyst.com,N,modelyst,10,Y
+162,161.0,2455,XTRA,https://xtravision.ai/,N,xtravision-ai,10,Y
+163,162.0,2568,MajorBoost,https://www.majorboost.com/,N,majorboost,10,Y
+164,163.0,123,Alan AI,https://alan.app,N,alan-ai,9,N
+165,164.0,359,FounderNest,https://www.foundernest.com,N,foundernest,9,N
+166,165.0,415,TopHap,https://www.tophap.com/,N,tophap,9,Y
+167,166.0,509,Big Room,https://www.bigroom.tv/,N,BigRoom,9,N
+168,167.0,1284,Explain.Care Inc.,https://www.explain.care,N,explainDev,9,N
+169,168.0,1385,Eleos Health,https://www.eleos.health/,N,eleos-health,9,N
+170,169.0,1420,Graviti,https://www.graviti.com/,N,Graviti-AI,9,Y
+171,170.0,1763,PureSkill.gg,http://pureskill.gg/,N,pureskillgg,9,Y
+172,171.0,2329,Brainome,http://www.brainome.ai/,N,brainome,9,Y
+173,172.0,2356,Arize AI,https://arize.com,N,Arize-ai,9,N
+174,173.0,2370,OtterTune,https://ottertune.com,N,ottertune,9,Y
+175,174.0,2425,Greyscale AI,https://www.greyscaleai.com/,N,greyscaleai521,9,Y
+176,175.0,2486,InfinStor,https://infinstor.com,N,infinstor,9,Y
+177,176.0,2619,Metrolla,https://metrolla.com,N,Metrolla-Inc,9,Y
+178,177.0,2803,Strio.AI,http://strio.ai/,N,Strio-DAO,9,N
+179,178.0,49,Third Wave Automation,https://www.thirdwave.ai/,N,thirdwave-ai,8,N
+180,179.0,358,Chronicle,https://chronicle.security/,N,Chronicle,8,Y
+181,180.0,589,Harbor.ai,https://harbor.ai,N,harbor-ai,8,N
+182,181.0,685,Yoyo Labs,https://www.yoyolabs.io,N,yoyolabsio,8,Y
+183,182.0,785,MetaDoc,https://metadoc.ai,N,Metadoc,8,N
+184,183.0,1003,AnChain.ai,https://www.AnChain.ai,N,AnChainAI,8,Y
+185,184.0,1112,MeetKai,http://www.meetkai.com,N,MeetKai,8,N
+186,185.0,1137,DataFleets,http://www.datafleets.com,N,datafleets,8,N
+187,186.0,1193,Galliot,https://galliot.us/,N,galliot-us,8,Y
+188,187.0,1221,Verdant,http://verdant.ai,N,VerdantAI,8,Y
+189,188.0,1416,Sensible Weather,https://www.sensibleweather.com,N,SensibleWeather,8,N
+190,189.0,1445,Tradeswell,https://www.tradeswell.com,N,Tradeswell,8,N
+191,190.0,1461,Kraftful,https://www.kraftful.com/,N,kraftful,8,Y
+192,191.0,1470,Sewer AI,http://www.sewerai.com,N,sewerai-org,8,N
+193,192.0,1722,Alectio,https://www.alectio.com,N,alectio,8,Y
+194,193.0,2055,Qimia Inc,https://www.qimia.io,N,qimia,8,N
+195,194.0,2341,Centrol.io,https://www.centrol.io,N,centrol-io,8,N
+196,195.0,2556,Pluto Biosciences,https://pluto.bio,N,pluto-biosciences,8,Y
+197,196.0,2561,Kanari AI,https://kanari.ai/,N,kanari-com,8,N
+198,197.0,2599,Hakimo,https://hakimo.ai/,N,hakimo-ai,8,N
+199,198.0,2701,Pibit.ai,https://pibit.ai/,N,pibit-ai,8,Y
+200,199.0,12,Pixis,https://pixis.ai/,N,pixisai,7,N
+201,200.0,51,Proton.ai,https://www.proton.ai,N,ProtonNetwork,7,N
+202,201.0,58,Amira Learning,https://www.amiralearning.com/,N,AmiraLearning,7,N
+203,202.0,312,Augmented Radar Imaging,https://augmentedradar.com/#,N,augmentedradar,7,N
+204,203.0,373,Watermark,https://www.watermarkinsights.com,N,WatermarkInsights,7,Y
+205,204.0,412,Ardius,http://www.ardius.com,N,ardiustech,7,Y
+206,205.0,590,Engine ML,https://www.engineml.com/,N,EngineML,7,N
+207,206.0,724,Pyxis,https://pixis.ai/,N,pixisai,7,N
+208,207.0,759,Carbonado Technologies Inc,https://carbonado.tech/,N,Carbonado,7,N
+209,208.0,1084,Diffgram,https://diffgram.com/,N,diffgram,7,Y
+210,209.0,1132,Striveworks,https://striveworks.com,N,Striveworks,7,Y
+211,210.0,1317,Abacus.AI,https://abacus.ai/,N,abacusai,7,Y
+212,211.0,1365,Datasaur,https://www.datasaur.ai,N,datasaur-ai,7,N
+213,212.0,1394,1build,https://www.1build.com/,N,1build,7,Y
+214,213.0,1473,Advocat,https://www.advocat.ai/,N,advocat-ai,7,N
+215,214.0,1477,Factored,https://www.factored.ai/,N,factoredai,7,N
+216,215.0,1602,NLMatics,https://www.nlmatics.com,N,nlmatics,7,Y
+217,216.0,2047,Flet.ai,https://www.flet.ai,N,flet-dev,7,N
+218,217.0,2326,ALO,https://alo.ai,N,alo-ai,7,Y
+219,218.0,2354,Personal AI,https://personal.ai,N,personal-ai,7,Y
+220,219.0,2433,Gridware,https://gridware.io,N,gridware,7,N
+221,220.0,2524,Cameralyze,https://www.cameralyze.co,N,cameralyze,7,N
+222,221.0,2740,Merlin Mobility,https://www.drivemerlin.com/,N,DriveMerlin,7,N
+223,222.0,109,Voxie,https://www.voxie.com/,N,voxie,6,Y
+224,223.0,195,FoxyAI,https://www.foxyai.com/,N,foxyai,6,N
+225,224.0,378,Qokka,https://qokka.ai,N,Qokka,6,Y
+226,225.0,422,Autonom8,https://autonom8.com,N,Autonom8,6,N
+227,226.0,511,Talent Ticker,https://www.talentticker.ai/,N,TalentTicker,6,N
+228,227.0,513,Shortest Track Company,https://shortesttrack.com/,N,shortesttrack,6,N
+229,228.0,574,Bloxy.info,https://bloxy.info,N,Bloxy-info,6,Y
+230,229.0,1007,Invisible AI,https://www.invisible.ai,N,invisible-ai,6,N
+231,230.0,1042,Geminus.ai,https://www.geminus.ai/,N,Geminus-AI,6,Y
+232,231.0,1086,LinkedAI,https://linkedai.co,N,LinkedAi,6,Y
+233,232.0,1159,Botcopy,https://botcopy.com/,N,Botcopy,6,Y
+234,233.0,1225,Auxin.io,https://www.auxin.io,N,Auxin-io,6,Y
+235,234.0,1333,Lexion,https://www.lexion.ai/,N,lexionai,6,N
+236,235.0,1342,Hayden AI,http://www.hayden.ai,N,haydenai,6,Y
+237,236.0,1349,Falkon AI,http://www.falkon.ai,N,falkonai,6,N
+238,237.0,1366,Continual,https://continual.ai/,N,continual-ai,6,Y
+239,238.0,1392,NetSpring,https://www.netspring.io/,N,netspringit,6,N
+240,239.0,1428,Atomic Industries,https://www.atomic.industries,N,Atomic-Industries,6,N
+241,240.0,1452,nFlux AI,https://www.nflux.ai,N,nflux,6,Y
+242,241.0,1484,Artifact,https://www.artifact.io,N,Artifact-io,6,Y
+243,242.0,1493,Peoplelogic,https://peoplelogic.ai,N,peoplelogic,6,N
+244,243.0,1579,Dextrous Robotics,https://www.dextrousrobotics.com,N,DextrousRobotics,6,N
+245,244.0,1589,BrightHire,https://brighthire.ai/,N,brighthire,6,Y
+246,245.0,1599,IoTFlows Inc,https://www.iotflows.com,N,iotflows,6,Y
+247,246.0,1607,ADEx Document Intelligence,https://www.adex.ai,N,adexltd,6,N
+248,247.0,1756,Strife AI,https://www.strife.ai/,N,Strife-AI,6,N
+249,248.0,1775,Bunkerhill Health,http://www.bunkerhillhealth.com/,N,bunkerhillhealth,6,N
+250,249.0,1822,Towards AI,https://towardsai.net/,N,towardsai,6,Y
+251,250.0,1866,Constellation Analytics,https://constellationanalytics.com/,N,constellationanalytics,6,N
+252,251.0,2171,<Tuple>,http://tuple.xyz,N,tuplexyz,6,N
+253,252.0,2352,CopyAI,https://www.copy.ai,N,copy-ai,6,Y
+254,253.0,2361,Sensible,https://www.sensible.so,N,sensible-hq,6,Y
+255,254.0,2399,Metaphor,https://metaphor.io/,N,MetaphorData,6,Y
+256,255.0,2695,taiy.ai,https://www.taiyo.ai,N,Taiyo-ai,6,N
+257,256.0,16,NLX,https://nlx.ai,N,nlxai,5,Y
+258,257.0,144,Enya.ai,https://enya.ai/,N,enyalabs,5,Y
+259,258.0,190,BioTrillion,https://www.biotrillion.com,N,BioTrillion,5,N
+260,259.0,256,Playform,http://www.playform.io,N,playform,5,N
+261,260.0,343,Optilogic,https://optilogic.com,N,optilogic,5,N
+262,261.0,795,PathBase,https://pathbase.io,N,PathBase,5,Y
+263,262.0,798,Yolla,https://yollamedia.com,N,YollaMedia,5,N
+264,263.0,811,"Audseb, Inc.",https://www.audseb.com,N,audseb,5,N
+265,264.0,1044,Pachama,https://www.pachama.com,N,pachama,5,N
+266,265.0,1087,Defynance,https://defynance.com,N,DefynanceGH,5,N
+267,266.0,1344,MixMode,http://www.mixmode.ai,N,mixmodeai,5,Y
+268,267.0,1432,Snorble,https://snorble.com,N,snorble,5,N
+269,268.0,1649,Zumo Labs,http://zumolabs.ai,N,ZumoLabs,5,Y
+270,269.0,1701,"Henkaku, LLC",https://www.henkaku.ai,N,henkaku,5,N
+271,270.0,2010,EazyML,https://eazyml.com/,N,EazyML,5,Y
+272,271.0,2300,Workera,https://workera.ai/,N,workera-ai,5,Y
+273,272.0,2309,Moises,https://moises.ai,N,moises-ai,5,Y
+274,273.0,2415,Colossyan,https://www.colossyan.com/,N,colossyan,5,N
+275,274.0,2508,PredictNow.ai Inc.,https://www.predictnow.ai/,N,PredictNowAI,5,Y
+276,275.0,2510,SmartHub.ai,https://www.smarthub.ai,N,smarthub-ai,5,N
+277,276.0,2546,Bavard AI,https://www.bavard.ai/,N,bavard-ai,5,N
+278,277.0,2548,Connectly.ai,https://www.connectly.ai,N,Connectly,5,N
+279,278.0,2586,Obviously AI,https://www.obviously.ai/,N,ObviouslyAI,5,Y
+280,279.0,2605,MixPose,https://mixpose.com,N,MixPose,5,N
+281,280.0,2679,Giftpack,https://giftpack.ai,N,Giftpack,5,Y
+282,281.0,2747,Slingshot,https://slingshot.fm,N,slingshot,5,Y
+283,282.0,2786,Telepath.io,https://telepath.io,N,telepath-ai,5,Y
+284,283.0,14,KoBold Metals,https://www.koboldmetals.com,N,KoBoldMetals,4,N
+285,284.0,37,Mosaic,https://www.mosaicapp.com,N,mosaicapp,4,N
+286,285.0,44,Amplemarket,https://amplemarket.com/,N,amplemarket,4,Y
+287,286.0,70,NODAR,http://www.nodarsensor.com,N,nodarsensor,4,Y
+288,287.0,75,Kizen,https://kizen.com,N,kizen,4,Y
+289,288.0,81,TrustLayer,https://trustlayer.io/,N,trustlayer,4,Y
+290,289.0,135,Insitro,http://www.insitro.com,N,insitro,4,N
+291,290.0,197,DTonomy Inc.,https://www.dtonomy.com,N,DTonomy-Inc,4,Y
+292,291.0,204,CogniCor,http://www.cognicor.com,N,cognicortechnologies,4,Y
+293,292.0,231,CustomerSuccessBox,http://customersuccessbox.com,N,customersuccessbox,4,Y
+294,293.0,290,Tempore,https://www.tempore.com,N,temporenc,4,N
+295,294.0,502,Open Conjecture,http://openconjecture.com/,N,OpenConjecture,4,N
+296,295.0,750,BLOCK id,https://www.blockid.cloud/,N,blockid,4,N
+297,296.0,861,DataJet Software,https://www.datajetsoftware.com,N,datajetsoftware,4,N
+298,297.0,972,Natively.ai,https://natively.ai,N,natively-project,4,N
+299,298.0,1034,Rizse,https://www.rizse.io,N,Rizseinc,4,Y
+300,299.0,1138,BigSpring,https://bigspring.io,N,bigspring-io,4,Y
+301,300.0,1321,Rephrase.ai,https://rephrase.ai/,N,rephrase-ai,4,N
+302,301.0,1322,Nayya,http://www.nayya.com,N,Nayya-com,4,N
+303,302.0,1410,Synthetaic,https://www.synthetaic.com/,N,synthetaic,4,N
+304,303.0,1441,Lynx MD,https://www.lynx.md,N,LynxMD,4,Y
+305,304.0,1466,Pathr.ai,http://pathr.ai,N,pathr,4,Y
+306,305.0,1507,KAID Health,https://www.kaidhealth.com/,N,KAIDHealth,4,N
+307,306.0,1528,Infinitus Systems,https://www.infinitus.ai,N,infinitusai,4,Y
+308,307.0,1533,Xailient,https://www.xailient.com/,N,XailientPublic,4,Y
+309,308.0,1582,AMAI,https://amai.io/,N,amai-io,4,N
+310,309.0,1621,Vouchery.io,https://www.vouchery.io,N,vouchery,4,Y
+311,310.0,1739,Nuclei,https://nuclei.ai,N,NucleiAI,4,Y
+312,311.0,1821,Weavr Inc.,https://weavr.ai,N,weavrai,4,N
+313,312.0,1825,Marsview.ai,https://www.marsview.ai,N,Marsview,4,N
+314,313.0,1850,extension.dev,https://extension.dev/,N,extension-dev,4,Y
+315,314.0,1982,SHERLOC,http://www.Sherloc.ai,N,sherlock-project,4,N
+316,315.0,2052,M2x.AI,http://www.M2x.ai,N,m2x-dev,4,N
+317,316.0,2088,Counter Factual .AI,http://www.counterfactual.ai/,N,CounterFactualAI,4,N
+318,317.0,2100,All Vision Technologies,https://www.all.vision/,N,all-vision,4,N
+319,318.0,2299,Genesis Therapeutics,https://www.genesistherapeutics.ai/,N,genesistherapeutics,4,N
+320,319.0,2357,retrain.ai,https://www.retrain.ai/,N,retrain-ai,4,N
+321,320.0,2387,GrayMatter Robotics,https://www.graymatter-robotics.com,N,GrayMatter-Robotics,4,Y
+322,321.0,2420,Datrics,https://datrics.ai/,N,datrics-ai,4,Y
+323,322.0,2437,Clearbrief,https://clearbrief.com,N,clearbrief-inc,4,N
+324,323.0,2526,Multiscale Technologies,https://multiscale.tech,N,multiscale,4,N
+325,324.0,2624,Berryworks,https://www.berryworks.ai,N,BerryWorksSoftware,4,N
+326,325.0,2650,Pangea Chat,https://www.pangeachat.com,N,pangeachat,4,N
+327,326.0,2698,aiXplain,https://aixplain.com/,N,aixplain,4,Y
+328,327.0,2806,Preamble,https://www.preamble.com/,N,preambleai,4,N
+329,328.0,2831,Soniox,https://soniox.com,N,soniox,4,Y
+330,329.0,41,Superb AI,https://www.superb-ai.com,N,Superb-AI-Suite,3,Y
+331,330.0,94,Birdie,https://birdie.ai,N,birdie-ai,3,N
+332,331.0,104,BlueCargo,https://www.bluecargo.io/,N,bluecargo,3,Y
+333,332.0,176,Bright Machines,https://www.brightmachines.com,N,brightmachines,3,N
+334,333.0,210,Jido Maps,https://www.jidomaps.com/,N,jidomaps,3,Y
+335,334.0,250,Latent AI,http://latentai.com/,N,latentai,3,N
+336,335.0,264,Tint.ai,https://www.tint.ai,N,tint-ai,3,Y
+337,336.0,278,Around,https://www.around.co,N,around,3,N
+338,337.0,317,Amplio.ai,https://www.amplio.ai/,N,Amplio-ai,3,N
+339,338.0,438,Tresl,https://tresl.co/,N,tresl-co,3,Y
+340,339.0,444,Quantime,https://quantime.ai,N,quantime,3,Y
+341,340.0,482,Reveal Technology,https://www.revealtech.ai/,N,revealtech,3,N
+342,341.0,540,Scaletech,https://www.scaletech.xyz,N,Team-Scaletech,3,Y
+343,342.0,581,Augustus Intelligence,https://augustusai.com,N,augustusai,3,N
+344,343.0,657,When Labs,http://www.whenlabs.com/,N,whenlabs,3,N
+345,344.0,675,Opinosis Analytics,https://www.opinosis-analytics.com,N,opinosis-analytics,3,Y
+346,345.0,711,Infiniwell,https://www.infiniwell.ai/,N,Infiniwell-ai,3,N
+347,346.0,778,CloudCosmos,https://cloudcosmos.tech/,N,CloudCosmos,3,Y
+348,347.0,992,intenseye,https://intenseye.com,N,intenseye,3,N
+349,348.0,1106,Ydrive,https://ydrive.ai,N,ydrive,3,Y
+350,349.0,1153,BetterHealth.ai,http://betterhealth.ai,N,betterhealth,3,N
+351,350.0,1172,Veamly,https://www.veamly.com/,N,veamly-inc,3,Y
+352,351.0,1316,AiDash,https://www.aidash.com,N,aidash,3,Y
+353,352.0,1348,d-Matrix,https://www.d-matrix.ai/,N,d-matrix-ai,3,Y
+354,353.0,1359,OxeFit,https://www.oxefit.com/,N,OxeFit,3,N
+355,354.0,1363,Hopstack,https://www.hopstack.io/,N,hopstack-inc,3,N
+356,355.0,1369,Daloopa,https://daloopa.ai,N,daloopa,3,N
+357,356.0,1390,Bloomfield Robotics,https://bloomfield.ai,N,BloomfieldRobotics,3,Y
+358,357.0,1482,XOKind,https://xokind.com/,N,xokind,3,N
+359,358.0,1492,Argoid,https://argoid.ai/,N,Argoid,3,N
+360,359.0,1546,Zeni,https://www.zeni.ai/,N,zeni-ai,3,N
+361,360.0,1580,Tauruseer,http://tauruseer.com,N,tauruseer,3,Y
+362,361.0,1583,BlueSuit,https://www.bluesuit.com,N,BlueSuit,3,N
+363,362.0,1619,Borza,https://borza.com,N,sborza,3,N
+364,363.0,1642,Maxwell Labs,https://www.maxwell-labs.com/,N,maxwell-labs,3,N
+365,364.0,1643,Fluid Power AI,https://fluid-ai.com,N,Fluid-AI,3,N
+366,365.0,1697,xiris,https://xiris.ai,N,xIris-Corp,3,Y
+367,366.0,1971,Digital Analytica,http://www.digitalanalytica.net,N,digitalanalytica,3,N
+368,367.0,2089,Row64,https://row64.com,N,Row64,3,Y
+369,368.0,2143,Hive Forensics AI,https://hiveforensics.com,N,HiveForensics-AI,3,Y
+370,369.0,2386,Credo AI,https://www.credo.ai/,N,Credo-AI,3,N
+371,370.0,2405,Climavision,https://www.climavision.com,N,Climavision,3,N
+372,371.0,2406,Ozette Technologies,https://ozette.ai,N,OzetteTech,3,N
+373,372.0,2410,Base64.ai,https://base64.ai,N,base64ai,3,Y
+374,373.0,2413,Headroom,https://www.goheadroom.com/,N,goheadroom,3,N
+375,374.0,2496,Anari AI,http://anari.ai/,N,Anari-AI,3,Y
+376,375.0,2557,MetaSpark Corporation,https://metaspark.io,N,metaspark-io,3,Y
+377,376.0,2559,Canaery,https://www.canaery.com/,N,canaery,3,N
+378,377.0,2692,Censius,https://censius.ai/,N,Censius,3,N
+379,378.0,2752,Databar.ai,https://www.databar.ai,N,databar-ai,3,N
+380,379.0,2794,Ai-OPs,https://www.ai-op.com,N,AI-OP,3,N
+381,380.0,2797,Troopr,https://www.troopr.ai,N,Troopr-Production,3,N
+382,381.0,2851,"HeartRithm, LLC",https://www.heartrithm.com,N,heartrithm,3,Y
+383,382.0,2856,Y Meadows,https://ymeadows.com,N,ymeadows,3,Y
+384,383.0,2867,Orma Health,https://ormahealth.com/,N,ormahealth,3,Y
+385,384.0,20,Atexto,https://atexto.com,N,Atexto,2,N
+386,385.0,46,Lunchclub,https://lunchclub.com,N,lunchclub,2,N
+387,386.0,67,Crosschq,https://crosschq.com,N,CrossChq,2,N
+388,387.0,86,Akridata,https://akridata.com,N,akridata-ai,2,N
+389,388.0,88,Root AI,https://root-ai.com,N,root-ai,2,N
+390,389.0,162,WeaveGrid,https://www.weavegrid.com,N,weavegrid,2,N
+391,390.0,209,AdaViv,https://www.adaviv.com/,N,AdaViv,2,Y
+392,391.0,228,Sapling.ai,https://sapling.ai,N,saplingai,2,Y
+393,392.0,229,Codify,https://www.codify.ai/,N,GetCodifyAI,2,N
+394,393.0,236,Simporter,https://www.simporter.com/,N,Simporter,2,N
+395,394.0,243,Color Intelligence,https://colourlab.ai,N,Colourlab-Ai,2,N
+396,395.0,272,Speeko,https://www.speeko.co/,N,speekoapp,2,N
+397,396.0,333,Polysentry,https://www.polysentry.com,N,PolySentry,2,N
+398,397.0,382,Custodia,https://www.custodia.ai,N,custodia-team,2,Y
+399,398.0,384,GLIDER.ai,http://glider.ai,N,gliderai,2,N
+400,399.0,404,Micro.ai,https://www.micro.ai/,N,micro-ai,2,N
+401,400.0,459,BrdgAI,https://brdg.ai/,N,brdg-ai,2,N
+402,401.0,476,Bola AI,https://www.bola.ai,N,Bola-AI,2,N
+403,402.0,480,Bees360,https://www.bees360.com,N,bees360,2,N
+404,403.0,508,Opplane,https://opplane.com,N,Opplane,2,Y
+405,404.0,523,Dhan AI,https://www.dhan.ai/,N,dhan2018,2,N
+406,405.0,536,Datics AI,http://datics.ai,N,datics,2,N
+407,406.0,596,transformAI,https://transformai.com,N,transformAI,2,N
+408,407.0,604,Perfect Tense,https://www.perfecttense.com,N,perfecttense,2,Y
+409,408.0,644,eCourtDate,https://ecourtdate.com/,N,ecourtdate,2,Y
+410,409.0,663,Clean Water AI,http://www.cleanwaterai.com,N,CleanWaterAI,2,N
+411,410.0,669,Foresite.ai,https://foresite.ai,N,foresite-ai,2,Y
+412,411.0,695,JetML,https://jetml.com/,N,jetml,2,Y
+413,412.0,791,Mindscale.ai,https://www.mindscale.ai/,N,mindscale,2,N
+414,413.0,844,Almaty Health,https://www.almatyhealth.com/,N,AlmatyHealth,2,N
+415,414.0,903,Latticework Insights,https://www.latticeworkinsights.com/,N,LatticeworkInsights,2,Y
+416,415.0,919,Xion,http://www.xion.ai,N,xion-global,2,N
+417,416.0,986,SiMa.ai,https://sima.ai,N,SiMa-ai,2,N
+418,417.0,1000,RIOS,http://www.rios.ai,N,rios-ai,2,N
+419,418.0,1013,Everestlabs.AI,http://www.everestlabs.ai,N,everestlabsai,2,N
+420,419.0,1038,Windsor.io,https://windsor.io/,N,windsorio,2,Y
+421,420.0,1066,Epistemic AI,https://www.epistemic.ai,N,epistemic-ai,2,N
+422,421.0,1071,AIxMed,https://www.aixmed.com/,N,AIxMed,2,Y
+423,422.0,1092,Capture Technologies,https://capture.tech/,N,capturetechnologies,2,Y
+424,423.0,1109,Wrench.AI,https://wrench.ai/,N,WrenchAI,2,Y
+425,424.0,1155,Vast.ai,https://vast.ai,N,vast-ai,2,Y
+426,425.0,1249,miiCloud,http://www.miicloud.io,N,miiCloud,2,Y
+427,426.0,1270,Codebot AI Technologies,http://codebotai.com,N,CodeBotAi,2,N
+428,427.0,1351,Kettle,http://ourkettle.com,N,OurKettle,2,N
+429,428.0,1352,Akkio,https://www.akkio.com/,N,akkio-inc,2,N
+430,429.0,1357,ActZero.ai,http://www.actzero.ai,N,actzeroai,2,Y
+431,430.0,1358,PictorLabs,https://www.pictorlabs.ai,N,pictorlabs,2,N
+432,431.0,1370,PostEra,https://postera.ai,N,postera-ai,2,Y
+433,432.0,1430,NavTrac,http://www.navtrac.com/,N,navtrac,2,N
+434,433.0,1455,Intelligent Racing,https://intelligentracing.com/,N,intelligentracing,2,Y
+435,434.0,1539,Biocogniv,https://biocogniv.com/,N,biocogniv,2,N
+436,435.0,1584,Vasitum,https://vasitum.com,N,VasitumInc,2,N
+437,436.0,1740,Facel,https://facel.tech,N,facel-tech,2,Y
+438,437.0,1773,Zammo.ai,https://zammo.ai/,N,zammo-ai,2,N
+439,438.0,1799,Decode Health,http://decodehealth.ai/,N,decodehealth,2,N
+440,439.0,1831,Repurpose.AI,https://repurpose.ai,N,repurpose,2,N
+441,440.0,1853,Authentic Artists,https://www.authentic-artists.ai/,N,authentic-artists,2,N
+442,441.0,1934,StreamAI,https://stream-ai.io,N,stream-ai,2,N
+443,442.0,1937,AMTIL,https://amtil.co,N,amtiltech,2,N
+444,443.0,2032,Abiliti,https://abiliti.co/,N,abilitiinc,2,Y
+445,444.0,2339,Tallas Biotech Inc.,https://tallas.io,N,TallasBiotech,2,N
+446,445.0,2360,Hebbia,http://hebbia.ai/,N,hebbia,2,N
+447,446.0,2436,NyquistData,https://nyquistdata.com/,N,nyquistdata,2,Y
+448,447.0,2461,Pratexo,https://pratexo.com/,N,pratexo,2,N
+449,448.0,2462,Noteworthy AI,https://noteworthy.ai,N,noteworthy,2,N
+450,449.0,2504,Interplai,https://interpl.ai/,N,Interplai,2,N
+451,450.0,2549,GoalProfit,https://www.goalprofit.com/,N,GoalProfit,2,N
+452,451.0,2554,Thumb Technologies,https://www.thumb-technologies.com,N,Thumb-Technologies,2,N
+453,452.0,2579,FlashPCB,https://www.flashpcb.com/,N,FlashPCB,2,Y
+454,453.0,2581,Modulus Therapeutics,https://www.modulustherapeutics.com,N,ModulusTherapeutics,2,N
+455,454.0,2613,outloud.ai,https://outloud.ai/,N,outloudai,2,Y
+456,455.0,2652,Shamrck,https://shamrck.com,N,shamrck,2,Y
+457,456.0,2685,Hyfe,https://www.hyfe.ai/,N,hyfe-ai,2,N
+458,457.0,2730,SolasAI,https://solas.ai,N,SolasAI,2,Y
+459,458.0,15,ZeroEyes,https://zeroeyes.com/,N,ZeroEyesTech,1,N
+460,459.0,57,ConverseNow,http://www.conversenow.ai/,N,conversenow,1,N
+461,460.0,110,Virtual Facility,https://www.virtualfacility.ai,N,virtualfacility,1,N
+462,461.0,116,Docugami,http://docugami.com,N,docugami,1,N
+463,462.0,119,Motion2Ai,https://motion2ai.com/,N,motion2ai,1,Y
+464,463.0,131,SPATE,https://spate.nyc,N,SPATENYC,1,Y
+465,464.0,133,CognitOps,https://cognitops.com/,N,CognitOps,1,N
+466,465.0,138,Ennoventure,https://www.ennoventure.com,N,Ennoventure,1,N
+467,466.0,149,Sentropy Technologies,https://sentropy.com,N,sentropytechnologies,1,Y
+468,467.0,183,Brightest,https://www.brightest.io,N,brightestinc,1,Y
+469,468.0,208,Potion,http://www.potion.ai,N,potion-ai,1,N
+470,469.0,214,Lingco Language Labs,http://www.lingco.io/,N,LingcoLanguageLabs,1,Y
+471,470.0,226,3co,http://3co.ai,N,3cology,1,Y
+472,471.0,245,SHO.ai,https://sho.ai/,N,Sho-ai,1,Y
+473,472.0,257,Beagle Learning,https://en.beaglelearning.com,N,BeagleLearning,1,N
+474,473.0,260,Lab Me Analytics,http://www.labme.ai/,N,labme,1,N
+475,474.0,281,UnitX,https://www.unitxlabs.com,N,unitxlabs,1,N
+476,475.0,291,ORBAI,https://www.orbai.ai/,N,ORBAI,1,N
+477,476.0,370,HypeAuditor,http://hypeauditor.com,N,hypeauditor,1,N
+478,477.0,371,Project Rnin,https://www.projectronin.com/,N,projectronin,1,N
+479,478.0,391,Supportiv,http://www.supportiv.com/,N,Supportiv,1,N
+480,479.0,417,Daytoday Health,https://www.daytoday.health/,N,daytodayhealth,1,Y
+481,480.0,426,ALFI,https://www.getalfi.com/,N,getalfi,1,Y
+482,481.0,439,OnKAI,https://onkai.co/,N,onKai,1,N
+483,482.0,497,Ed Machina,https://edmachina.com,N,edmachina,1,N
+484,483.0,541,Stitched Insights,https://www.stitchedinsights.com/,N,stitchedinsights,1,N
+485,484.0,544,Metric.ai,http://www.metric.ai,N,metric-ai,1,Y
+486,485.0,601,Hound Software,http://www.houndsoftware.net,N,HoundSoftware,1,N
+487,486.0,656,Remeeting,https://remeeting.com,N,remeeting,1,Y
+488,487.0,722,Gideon,https://www.gideon.legal/,N,gideon-legal,1,N
+489,488.0,846,CloudSqueeze,https://www.cloudsqueeze.ai/,N,cloudsqueeze,1,Y
+490,489.0,859,Brightbots,https://brightbots.co/,N,BrightbotsAI,1,Y
+491,490.0,974,Daizik,https://daizika.com,N,daizika,1,N
+492,491.0,1004,Healthee,https://healthee.co,N,GetHealthee,1,Y
+493,492.0,1010,Boomy,https://boomy.com,N,boomycorp,1,Y
+494,493.0,1016,GenesisAI,https://invest.genesisai.io/,N,genesisai-io,1,N
+495,494.0,1026,Saile,https://saile.ai,N,saile-ai,1,N
+496,495.0,1048,AI Insurance,https://www.aiinsurance.io/,N,aiinsurance,1,N
+497,496.0,1064,Kleeen Software,https://kleeen.software,N,KLEEEN-SOFTWARE,1,N
+498,497.0,1089,Caravel,http://www.caravelapp.com,N,CaravelApp,1,Y
+499,498.0,1090,nyfty.ai,https://nyfty.ai,N,Nyfty,1,N
+500,499.0,1100,IndustrialML,https://www.industrialml.com/,N,industrialml-inc,1,N
+501,500.0,1118,Intvo,https://intvo.com,N,intvo,1,Y
+502,501.0,1141,DragonflAI,https://www.dragonflai.co,N,DragonflAI-tech,1,N
+503,502.0,1186,GreenData.IO,https://greendata.io,N,greendata-ai,1,N
+504,503.0,1187,Encore,http://encore.hornblower.com/,N,hornblower,1,N
+505,504.0,1200,Omnidya,http://www.omnidya.com/,N,omnidya-insurtech,1,Y
+506,505.0,1254,Syntexys,https://syntexys.com/,N,Syntexys,1,Y
+507,506.0,1282,stratEDGE App,https://www.stratedge-app.com,N,stratedge-app,1,Y
+508,507.0,1313,EvolutionIQ,http://www.evolutioniq.com,N,EvolutionIQ,1,N
+509,508.0,1319,Kodezi,https://kodezi.com/,N,Kodezi,1,Y
+510,509.0,1340,Brightflow AI,https://www.brightflow.ai/,N,Brightflow-AI,1,N
+511,510.0,1361,Entos,https://www.entos.ai/,N,EntosAI,1,N
+512,511.0,1375,Agot.AI,https://agot.ai/,N,Agot-ai,1,N
+513,512.0,1386,FutureFit AI,https://www.futurefit.ai/,N,FutureFit-ai,1,Y
+514,513.0,1409,Auditoria.AI,https://www.auditoria.ai,N,Auditoria,1,N
+515,514.0,1417,Syntegra,https://www.syntegra.io,N,Syntegra,1,Y
+516,515.0,1457,HASH,https://hash.ai,N,Hash-AI,1,N
+517,516.0,1462,Glacier,https://endwaste.io/,N,endwaste,1,N
+518,517.0,1467,Singuli,https://singuli.co,N,singulico,1,Y
+519,518.0,1499,Dresma,http://dresma.ai,N,dresma,1,N
+520,519.0,1545,Orum.io,https://www.orum.io/,N,orum-io,1,Y
+521,520.0,1549,Monitaur,https://www.monitaur.ai/,N,monitaur,1,N
+522,521.0,1600,DataPrime,https://prime.ai/,N,PRIME-AI-GITHUB,1,N
+523,522.0,1609,Oncospace,https://www.oncospace.com/,N,oncospace,1,N
+524,523.0,1622,OfColor,http://www.ofcolor.com,N,WeAreOfColor,1,N
+525,524.0,1624,DeepSee.ai,https://deepsee.ai/,N,deepseeai,1,Y
+526,525.0,1703,Parkva,https://www.parkva.com,N,Parkva,1,N
+527,526.0,1733,Hexact,https://hexact.io,N,HexAct,1,Y
+528,527.0,1754,Team.ai,https://www.team.ai/,N,TEAM-AI,1,N
+529,528.0,1768,Archipelo,https://archipelo.com/,N,Archipelo,1,Y
+530,529.0,1777,SpeedLegal,https://speedlegal.io/,N,speedlegal,1,N
+531,530.0,1790,BasicAI,http://www.basic.ai,N,basicai,1,Y
+532,531.0,1803,FetchyFox,https://www.FetchyFox.com,N,fetchyfox,1,N
+533,532.0,1827,ModelFront,https://modelfront.com,N,modelfront,1,Y
+534,533.0,1847,WiteSand,https://www.witesand.io/,N,witesand,1,N
+535,534.0,1874,Zinvest,https://www.zvstus.com,N,zvstus,1,N
+536,535.0,1948,innov8.ag,https://www.innov8.ag,N,innov8ag,1,Y
+537,536.0,2005,Baseet.ai,https://baseet.ai,N,BaseetApp,1,N
+538,537.0,2064,Latent Sciences,https://latentsci.com/,N,LatentSciences,1,Y
+539,538.0,2098,Convexa,https://convexa.ai/,N,convexa,1,Y
+540,539.0,2182,Innovaite,https://www.innovaite.com/,N,TeamInnovAIte,1,N
+541,540.0,2201,Aetherial & Company,https://www.aetherial.company/,N,aetherialco,1,N
+542,541.0,2241,NLU Sense,https://nlusense.com,N,nlusense,1,Y
+543,542.0,2253,Cardiac Patterns,https://cardiacpatterns.ai/,N,cardiacpatterns,1,N
+544,543.0,2325,Zaden Technologies,https://zadentech.com,N,ZadenTechnologies,1,N
+545,544.0,2340,Easy Text AI,http://EasyText.AI,N,easytext-ai,1,N
+546,545.0,2353,Cardiosense,https://www.cardiosense.com,N,CardioSense,1,N
+547,546.0,2355,Protopia AI,https://www.protopia.ai,N,protopia-ai,1,N
+548,547.0,2369,Copysmith,http://copysmith.ai/,N,Copysmithai,1,N
+549,548.0,2379,FairPlay,https://fairplay.ai/,N,FairPlay-AI,1,N
+550,549.0,2381,Voxel,https://www.voxelai.com,N,voxelai,1,N
+551,550.0,2402,Hammoq,http://www.hammoq.com,N,Hammoq-Inc,1,Y
+552,551.0,2423,Included,https://included.ai/,N,included-ai,1,N
+553,552.0,2429,Hidden Door,https://www.hiddendoor.co,N,HiddenDoor,1,Y
+554,553.0,2435,Maple,https://www.growmaple.com/,N,growmaple,1,N
+555,554.0,2466,CITYDATA.ai,http://citydata.ai,N,citydataai,1,Y
+556,555.0,2469,Avalo,https://www.avalo.ai,N,avalo-ai,1,N
+557,556.0,2488,Retisio,https://www.retisio.com/,N,RETISIO,1,Y
+558,557.0,2507,Claira,https://www.claira.ai/,N,Claira-AI,1,N
+559,558.0,2533,TrenderTag,https://www.trender.ai/,N,trenderai,1,N
+560,559.0,2538,BeMe.ai,http://beme.ai,N,beme,1,N
+561,560.0,2540,FreightFlows,https://freightflows.com,N,freightflows,1,N
+562,561.0,2543,Steelhead Technologies,https://gosteelhead.com/,N,gosteelhead,1,Y
+563,562.0,2562,The Collaboratory,https://thecollaboratory.ai/collaboratory/,N,TheCollaboratory,1,N
+564,563.0,2570,PredictAP,https://predictap.com/,N,PredictAP,1,N
+565,564.0,2659,SportAI,https://sportai.io/,N,sportai,1,N
+566,565.0,2717,Akooda,https://www.akooda.co/,N,akooda,1,Y
+567,566.0,2741,Masterful AI,http://www.masterfulai.com,N,masterfulai,1,N
+568,567.0,2753,Filmustage,https://filmustage.com/,N,filmustage,1,Y
+569,568.0,2757,Stochastic,https://www.stochastic.ai,N,stochasticai,1,N
+570,569.0,2811,Nytro.ai,https://www.nytro.ai,N,nytro-platform,1,N
+571,570.0,2812,CloudAEye,https://www.cloudaeye.com/,N,CloudAEye,1,Y
+572,571.0,2862,Pre Health,https://www.pre.health,N,Pre-Health,1,N
+573,572.0,2868,Kinisi,https://www.kinisi.ai,N,kinisi-labs,1,Y
