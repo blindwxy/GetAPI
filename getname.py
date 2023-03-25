@@ -12,3 +12,5 @@ for r in range(log_csv.shape[0]):  #log_csv.shape[0]为dataframe行数
 log_csv.to_csv('/Users/wuxinying/PycharmProjects/GithubAPI/jian3.csv')
 123
 123
+
+134
